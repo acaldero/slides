@@ -47,7 +47,7 @@
       * Sesión 10 - Procesos
         * [clase_10-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_10-v1c.pdf)
       * Sesión 12 - Tuberías
-        * [clase_12-pipes-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_12-pipes-v1c)
+        * [clase_12-pipes-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_12-pipes-v1c.pdf)
       * Sesión 26 - Shell-scripts
         * [clase_13-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_13-v1c.pdf)
       * Sesiones 23,25,27 y 28 - Sistema de ficheros
