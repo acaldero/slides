@@ -1,8 +1,6 @@
 # Materiales ARCOS.INF.UC3M.ES [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 
 
 
-
-
 * Grado en Ingeniería Informática:
   * [Diseño de Sistemas Operativos](http://www.arcos.inf.uc3m.es/~infodso/)
     * Transparencias:
@@ -104,23 +102,23 @@
   * [Desarrollo de Aplicaciones Distribuidas](http://www.arcos.inf.uc3m.es/~dad/)
     * Transparencias:
       * 1 - Introducción
-        * [l1-introduccion-v1a](http://es.slideshare.net/AlejandroCalderonMat/l1-introduccionv1a)
+        * [l1-introduccion-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L1-introduccion-v1a.pdf)
       * 2 - Desarrollo de aplicaciones distribuidas en Java
-        * [l2-paso-demensajesenjava-v1b](http://es.slideshare.net/AlejandroCalderonMat/l2-paso-demensajesenjavav1b-62505552)
-        * [l3-cliente-servidorenjava-v1b](http://es.slideshare.net/AlejandroCalderonMat/l3-cliente-servidorenjavav1b)
-        * [l4-rmi-enjava-v1a](http://es.slideshare.net/AlejandroCalderonMat/l4-rmi-enjavav1a)
-        * [l5-rmi-callback-v1b](http://es.slideshare.net/AlejandroCalderonMat/l5-rmi-callbackv1b)
+        * [l2-paso-demensajesenjava-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L2-paso_de_mensajes_en_java-v1b.pdf)
+        * [l3-cliente-servidorenjava-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L3-cliente_servidor_en_java-v1b.pdf)
+        * [l4-rmi-enjava-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L4-rmi_en_java-v1a.pdf)
+        * [l5-rmi-callback-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L5-rmi_callback-v1b.pdf)
       * 3 - Desarrollo de aplicaciones distribuidas en CORBA
-        * [l6-corba-enjava-v1d](http://es.slideshare.net/AlejandroCalderonMat/l6-corba-enjavav1d)
-        * [l7-corba-detalles-v1b](http://es.slideshare.net/AlejandroCalderonMat/l7-corba-detallesv1b)
-        * [l8-corba-servicios-v1a](http://es.slideshare.net/AlejandroCalderonMat/l8-corba-serviciosv1a)
+        * [l6-corba-enjava-v1d](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L6-corba_en_java-v1d.pdf)
+        * [l7-corba-detalles-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L7-corba_detalles-v1c.pdf)
+        * [l8-corba-servicios-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L8-corba_servicios-v1a.pdf)
       * 4 - Aplicaciones de Internet
-        * [l9-soap-introduccion-v1b](http://es.slideshare.net/AlejandroCalderonMat/l9-soap-introduccionv1b)
-        * [l10-servicio-web-v1b](http://es.slideshare.net/AlejandroCalderonMat/l10-servicio-webv1b)
+        * [l9-soap-introduccion-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L9-soap_introduccion-v1b.pdf)
+        * [l10-servicio-web-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L10-servicio_web-v1b.pdf)
       * 5 - Desarrollo de aplicaciones distribuidas con .NET
-        * [l11-dotnet-v1c](http://es.slideshare.net/AlejandroCalderonMat/l11-dotnetv1c-62505580)
-        * [l12-dotnet-prog-v1c](http://es.slideshare.net/AlejandroCalderonMat/l12-dotnet-progv1c)
-        * [l13-dotnet-ws-v1c](http://es.slideshare.net/AlejandroCalderonMat/l13-dotnet-wsv1c)
+        * [l11-dotnet-v1c](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L11-dotnet-v1c.pdf)
+        * [l12-dotnet-prog-v1c](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L12-dotnet_prog-v1c.pdf)
+        * [l13-dotnet-ws-v1c](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L13-dotnet_ws-v1c.pdf)
       * 6 - Paradigmas avanzados de computación distribuida
-        * [l14-avanzado-v1a](http://es.slideshare.net/AlejandroCalderonMat/l14-avanzadov1a)
-        * [l15-tendencias-v1b](http://es.slideshare.net/AlejandroCalderonMat/l15-tendenciasv1b)
+        * [l14-avanzado-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L14-avanzado-v1a.pdf)
+        * [l15-tendencias-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L15-tendencias-v1b.pdf)
