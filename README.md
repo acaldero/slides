@@ -35,11 +35,11 @@
   * [Sistemas Operativos](http://www.arcos.inf.uc3m.es/~infoso/)
     * Transparencias (2020-2021):
       * Sesión 1 - Introducción al lenguaje C
-        * [clase_w1-introduccionc-v3a.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc-v3a.pdf)
+        * [clase_w1-introduccionc-v3b.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc-v3b.pdf)
       * Sesión 2 - Introducción a los sistemas operativos
-        * [clase_w2-introduccion-v3b.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion-v3b.pdf)
+        * [clase_w2-introduccion-v3c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion-v3c.pdf)
       * Sesión 3 - Servicios del Sistema Operativo
-        * [clase_w3-serviciosdelso-v3a.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso-v3a.pdf)
+        * [clase_w3-serviciosdelso-v3b.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso-v3b.pdf)
     * Transparencias:
       * Sesión 2 y 4 - Introducción al entorno de trabajo
         * [clase_02-lenguajec-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-lenguajec-v1c.pdf)
