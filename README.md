@@ -2,36 +2,6 @@
 
 
 * Grado en Ingeniería Informática:
-  * [Diseño de Sistemas Operativos](http://www.arcos.inf.uc3m.es/~infodso/)
-    * Transparencias:
-      * 1 - Introducción
-        * [clases-1a-introduccion-v3b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1a-introduccion-v3d.pdf)
-        * [clases-1b-bajodemanda-v2b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1b-bajodemanda-v2b.pdf)
-        * [clases-1c-libcmemoria-v2a](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1c-libc_memoria-v2a.pdf)
-      * 2 - Aspectos principales del funcionamiento de un sistema operativo
-        * [clases-2-funcionamiento-v3c](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-2-funcionamiento-v3c.pdf)
-        * [ejercicio-2-get_date-v2a](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-2-get_date-v2a.pdf)
-      * 3 - Procesos, hilos y planificación
-        * [clases-3a-introduccion-v5d](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3a-ppdsa_introduccion-v5d.pdf)
-        * [clases-3b-cambioscontexto-v5e](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3b-ppdsa_cambioscontexto-v5e.pdf)
-        * [ejercicio-3b-prioridad_rr-v1e](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-3b-prioridad_rr-v1e.pdf)
-      * 4 - Drivers y servicios ampliados
-        * [clases-3c-drivers_sa-v5e](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3c-ppdsa_drv_sa-v5e.pdf)
-        * [ejercicio-3c-teclado-v2a](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-3c-teclado-v2a.pdf)
-      * 5 - Sistemas de ficheros
-        * [clases-4a-sf_agf-v6a](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-4a-sf_agf-v6a.pdf)
-        * [clases-4b-sf_agf-v1b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-4b-sf_agf-v1a.pdf)
-        * [ejercicio-4-sf1-v1c](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-4-sf1-v1c.pdf)
-      * 6 - Gestión de memoria
-        * [clases-5a-introduccion-v3b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-5a-memoria_introduccion-v3b.pdf)
-        * [clases-5b-gestion-v4b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-5b-memoria_agf-v4b.pdf)
-    * Slides:
-      * 5 - File systems
-        * [l5-introduction-to-file-systems-v4a](http://es.slideshare.net/AlejandroCalderonMat/l5-introduction-to-file-systems-v4a)
-        * [l5-introduction-to-file-system-design-v4a](http://es.slideshare.net/AlejandroCalderonMat/l5-introduction-to-file-system-design-v4a)
-      * 6 - Memory management
-        * [l6a-introduction-to-memory-management-v2f](http://es.slideshare.net/AlejandroCalderonMat/l6a-introduction-to-memory-management-v2f)
-
   * [Sistemas Operativos](http://www.arcos.inf.uc3m.es/~infoso/)
     * Transparencias (2020-2021):
       * Sesión 1 - Introducción al lenguaje C
@@ -80,6 +50,36 @@
         * [t5-memoria-iii-virtual-v4c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-iii-virtual-v4c.pdf)
       * 6 - Técnicas de E/S y dispositivos periféricos
         * [t6-eys-v2c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t6-eys-v2c.pdf)
+
+  * [Diseño de Sistemas Operativos](http://www.arcos.inf.uc3m.es/~infodso/)
+    * Transparencias:
+      * 1 - Introducción
+        * [clases-1a-introduccion-v3b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1a-introduccion-v3d.pdf)
+        * [clases-1b-bajodemanda-v2b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1b-bajodemanda-v2b.pdf)
+        * [clases-1c-libcmemoria-v2a](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1c-libc_memoria-v2a.pdf)
+      * 2 - Aspectos principales del funcionamiento de un sistema operativo
+        * [clases-2-funcionamiento-v3c](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-2-funcionamiento-v3c.pdf)
+        * [ejercicio-2-get_date-v2a](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-2-get_date-v2a.pdf)
+      * 3 - Procesos, hilos y planificación
+        * [clases-3a-introduccion-v5d](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3a-ppdsa_introduccion-v5d.pdf)
+        * [clases-3b-cambioscontexto-v5e](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3b-ppdsa_cambioscontexto-v5e.pdf)
+        * [ejercicio-3b-prioridad_rr-v1e](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-3b-prioridad_rr-v1e.pdf)
+      * 4 - Drivers y servicios ampliados
+        * [clases-3c-drivers_sa-v5e](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3c-ppdsa_drv_sa-v5e.pdf)
+        * [ejercicio-3c-teclado-v2a](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-3c-teclado-v2a.pdf)
+      * 5 - Sistemas de ficheros
+        * [clases-4a-sf_agf-v6a](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-4a-sf_agf-v6a.pdf)
+        * [clases-4b-sf_agf-v1b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-4b-sf_agf-v1a.pdf)
+        * [ejercicio-4-sf1-v1c](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-4-sf1-v1c.pdf)
+      * 6 - Gestión de memoria
+        * [clases-5a-introduccion-v3b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-5a-memoria_introduccion-v3b.pdf)
+        * [clases-5b-gestion-v4b](https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-5b-memoria_agf-v4b.pdf)
+    * Slides:
+      * 5 - File systems
+        * [l5-introduction-to-file-systems-v4a](http://es.slideshare.net/AlejandroCalderonMat/l5-introduction-to-file-systems-v4a)
+        * [l5-introduction-to-file-system-design-v4a](http://es.slideshare.net/AlejandroCalderonMat/l5-introduction-to-file-system-design-v4a)
+      * 6 - Memory management
+        * [l6a-introduction-to-memory-management-v2f](http://es.slideshare.net/AlejandroCalderonMat/l6a-introduction-to-memory-management-v2f)
 
 * Máster en Ciencia y Tecnología Informática:
   * [Diseño de sistemas distribuidos](http://arcos.inf.uc3m.es/~dsd/)
