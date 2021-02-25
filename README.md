@@ -10,6 +10,8 @@
         * [clase_w2-introduccion.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf)
       * Sesión 3 - Servicios del Sistema Operativo
         * [clase_w3-serviciosdelso.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso.pdf)
+      * Sesión 4 - Introducción a la gestión de procesos
+        * [clase_w4-procesos.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf)
     * Transparencias:
       * Sesión 2 y 4 - Introducción al entorno de trabajo
         * [clase_02-lenguajec-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-lenguajec-v1c.pdf)
