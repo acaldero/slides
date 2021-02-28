@@ -179,7 +179,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Session</td><td>Subject</td><td>Slides</td></tr>
+  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td><td>Videos</td></tr>
   <tr><td>2</td><td>Sistemas de altas prestaciones en entornos distribuidos</td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v9c.pdf">sistemas-de-altas-prestaciones-en-entornos-distribuidos-v9a</a>
@@ -197,15 +197,28 @@
 </html>
 
 
-* Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics:
-  * [Fundamentals of Big Data Software and Hardware Technologies](http://arcos.inf.uc3m.es/~dsd/)
-    * Slides:
-      * 3 - Introduction to virtualization
-        * [lesson3-virtualization-v2d.pdf](https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-v2d.pdf)
-        * [lesson3-virtualization-extra_vbox-v2d.pdf](https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-extra_vbox-v2d.pdf)
-        * [lesson3-virtualization-extra_docker-v1a.pdf](https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-extra_docker-v1a.pdf)
-      * 11 - Introduction to Distributed Computing
-        * [lesson11-distributed-computing-v1b.pdf](https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson4-intro-cloud-v2f.pdf)
+  * [Fundamentals of Big Data Software and Hardware Technologies (Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics)](http://www.arcos.inf.uc3m.es/~dsd/)
+
+<html>
+ <ul>
+ <table>
+  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td><td>Videos</td></tr>
+  <tr><td>3</td><td>Introduction to virtualization</td>
+      <td><ol type="1">
+        * <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-v2d.pdf">lesson3-virtualization-v2d.pdf</a>
+        * <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-extra_vbox-v2d.pdf">lesson3-virtualization-extra_vbox-v2d.pdf</a>
+        * <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-extra_docker-v1a.pdf">lesson3-virtualization-extra_docker-v1a.pdf</a>
+       </ul></td>
+  </tr>
+  <tr><td>11</td><td>Introduction to Distributed Computing</td>
+      <td><ol type="1">
+        <li><a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson4-intro-cloud-v2f.pdf">lesson11-distributed-computing-v1b.pdf</a>
+      </ul></td>
+  </tr>
+ </table>
+ </ul>
+</html>
+
 
 * Ingeniería Informática:
   * Desarrollo de Aplicaciones Distribuidas
