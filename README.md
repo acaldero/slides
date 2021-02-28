@@ -152,6 +152,8 @@
 </html>
 
 
+  * [Operating System Design (2019-2020, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infodso/)
+
 <html>
  <ul>
  <table>
@@ -172,15 +174,28 @@
 </html>
 
 
-* Máster en Ciencia y Tecnología Informática:
-  * [Diseño de sistemas distribuidos](http://arcos.inf.uc3m.es/~dsd/)
-    * Transparencias:
-      * 2 - Sistemas de altas prestaciones en entornos distribuidos
-        * [sistemas-de-altas-prestaciones-en-entornos-distribuidos-v9a](https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v9c.pdf)
-      * 3 - Sistemas de almacenamiento escalables
-        * [mctidsd-sistemas-escalables-en-entornos-distribuidos-v4c](https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-v5b.pdf)
-        * [mctidsd-sistemas-escalables-en-entornos-distribuidos-hadoop-v4b](https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-hadoop-v4b.pdf)
-        * [mctidsd-sistemas-escalables-en-entornos-distribuidos-spark-v3b](https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-spark-v3b.pdf)
+  * [Diseño de sistemas distribuidos (Máster en Ciencia y Tecnología Informática)](http://www.arcos.inf.uc3m.es/~dsd/)
+
+<html>
+ <ul>
+ <table>
+  <tr><td>Session</td><td>Subject</td><td>Slides</td></tr>
+  <tr><td>2</td><td>Sistemas de altas prestaciones en entornos distribuidos</td>
+      <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v9c.pdf">sistemas-de-altas-prestaciones-en-entornos-distribuidos-v9a</a>
+       </ul></td>
+  </tr>
+  <tr><td>3</td><td>Sistemas de almacenamiento escalables</td>
+      <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-v5b.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-v4c</a>
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-hadoop-v4b.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-hadoop-v4b</a>
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-spark-v3b.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-spark-v3b</a>
+      </ul></td>
+  </tr>
+ </table>
+ </ul>
+</html>
+
 
 * Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics:
   * [Fundamentals of Big Data Software and Hardware Technologies](http://arcos.inf.uc3m.es/~dsd/)
