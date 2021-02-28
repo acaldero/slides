@@ -12,24 +12,54 @@
 
 * [Estructura de Computadores (2020-2021, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoec/)
 
-| Sesión 	| Tema                                          	| Transparencias                                                                                                               	|
-|--------	|-----------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------	|
-| 1      	| Introducción a los computadores            	   | [t1-introduccion-v3e](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t1-introduccion-v3a.pdf)               |
-| 2      	| Representación de la información              	| [t2-representacion-v4c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t2-representacion-v4c.pdf)           |
-| 3      	| Fundamentos de la programación en ensamblador  | [t3-ensamblador-i-v1f](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-i-v1f.pdf)             |
-|        	|                                               	| [t3-ensamblador-ii-v1d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-ii-v1d.pdf)           |
-|        	|                                               	| [t3-ensamblador-iii-v1d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-iii-v1d.pdf)         |
-| 4      	| El procesador                                 	| [t4-procesador-i-v3d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-i-v3b.pdf)               |
-|        	|                                               	| [t4-procesador-ii-v3c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-ii-v3b.pdf)             |
-| 5      	| Jerarquía de memoria                          	| [t5-memoria-i-intro-v4a](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-i-intro-v4a.pdf)         |
-|        	|                                               	| [t5-memoria-ii-cache-v4a](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-ii-cache-v4a.pdf)       |
-|        	|                                               	| [t5-memoria-iii-virtual-v4c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-iii-virtual-v4c.pdf) |
-| 6      	| Técnicas de E/S y dispositivos periféricos    	| [t6-eys-v2c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t6-eys-v2c.pdf)                                 |
+<html>
+ <ul>
+ <table>
+  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td></tr>
+  <tr><td>1</td><td>Introducción a los computadores</td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t1-introduccion-v3a.pdf">t1-introduccion-v3e</a>
+      </ul></td>
+  </tr>
+  <tr><td>2</td><td>Representación de la información</td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t2-representacion-v4c.pdf">t2-representacion-v4c</a>
+      </ul></td>
+  </tr>
+  <tr><td>3</td><td>Fundamentos de la programación en ensamblador</td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-i-v1f.pdf">t3-ensamblador-i-v1f</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-ii-v1d.pdf">t3-ensamblador-ii-v1d</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-iii-v1d.pdf">t3-ensamblador-iii-v1d</a>
+      </ul></td>
+  </tr>
+  <tr><td>4</td><td>El procesador </td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-i-v3b.pdf">t4-procesador-i-v3d</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-ii-v3b.pdf">t4-procesador-ii-v3c</a>
+      </ul></td>
+  </tr>
+  <tr><td>5</td><td>Jerarquía de memoria </td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-i-intro-v4a.pdf">t5-memoria-i-intro-v4a</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-ii-cache-v4a.pdf">t5-memoria-ii-cache-v4a</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-iii-virtual-v4c.pdf">t5-memoria-iii-virtual-v4c</a>
+      </ul></td>
+  </tr>
+  <tr><td>6</td><td>Técnicas de E/S y dispositivos periféricos</td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t6-eys-v2c.pdf">t6-eys-v2c</a>
+      </ul></td>
+  </tr>
+ </table>
+ </ul>
+</html>
 
 
   * [Diseño de Sistemas Operativos (2019-2020, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infodso/)
 
 <html>
+ <ul>
  <table>
   <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td></tr>
   <tr><td>1</td><td>Introducción</td>
@@ -72,10 +102,12 @@
       </ul></td>
   </tr>
  </table>
+ </ul>
 </html>
 
 
 <html>
+ <ul>
  <table>
   <tr>
     <td>Session</td><td>Subject</td><td>Slides</td>
@@ -92,6 +124,7 @@
       </ul></td>
   </tr>
  </table>
+ </ul>
 </html>
 
 
