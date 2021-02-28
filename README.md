@@ -179,7 +179,7 @@
 <html>
  <ul>
  <table>
-  <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
+  <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>2</td><td>Sistemas de altas prestaciones en entornos distribuidos</td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v9c.pdf">sistemas-de-altas-prestaciones-en-entornos-distribuidos-v9a</a>
@@ -202,7 +202,7 @@
 <html>
  <ul>
  <table>
-  <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
+  <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>3</td><td>Introduction to virtualization</td>
       <td><ol type="1">
         * <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-v2d.pdf">lesson3-virtualization-v2d.pdf</a>
@@ -220,30 +220,62 @@
 </html>
 
 
-* Ingeniería Informática:
-  * Desarrollo de Aplicaciones Distribuidas
-    * Transparencias:
-      * 1 - Introducción
-        * [l1-introduccion-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L1-introduccion-v1a.pdf)
-      * 2 - Desarrollo de aplicaciones distribuidas en Java
-        * [l2-paso-demensajesenjava-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L2-paso_de_mensajes_en_java-v1b.pdf)
-        * [l3-cliente-servidorenjava-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L3-cliente_servidor_en_java-v1b.pdf)
-        * [l4-rmi-enjava-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L4-rmi_en_java-v1a.pdf)
-        * [l5-rmi-callback-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L5-rmi_callback-v1b.pdf)
-      * 3 - Desarrollo de aplicaciones distribuidas en CORBA
-        * [l6-corba-enjava-v1d](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L6-corba_en_java-v1d.pdf)
-        * [l7-corba-detalles-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L7-corba_detalles-v1c.pdf)
-        * [l8-corba-servicios-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L8-corba_servicios-v1a.pdf)
-      * 4 - Aplicaciones de Internet
-        * [l9-soap-introduccion-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L9-soap_introduccion-v1b.pdf)
-        * [l10-servicio-web-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L10-servicio_web-v1b.pdf)
-      * 5 - Desarrollo de aplicaciones distribuidas con .NET
-        * [l11-dotnet-v1c](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L11-dotnet-v1c.pdf)
-        * [l12-dotnet-prog-v1c](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L12-dotnet_prog-v1c.pdf)
-        * [l13-dotnet-ws-v1c](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L13-dotnet_ws-v1c.pdf)
-      * 6 - Paradigmas avanzados de computación distribuida
-        * [l14-avanzado-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L14-avanzado-v1a.pdf)
-        * [l15-tendencias-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L15-tendencias-v1b.pdf)
+* Desarrollo de Aplicaciones Distribuidas (Ingeniería Informática)
+<html>
+  <ul>
+  <table>
+   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr> 
+   <tr>
+    <td>1</td><td>Introducción</td>
+    <td><ol type="1">
+     <li> xxxx
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L1-introduccion-v1a.pdf">l1-introduccion-v1a</a>
+    </ol></td>
+   </tr> 
+   <tr>
+    <td>2</td><td>Desarrollo de aplicaciones distribuidas en Java</td>
+    <td><ol type="1">
+      <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L2-paso_de_mensajes_en_java-v1b.pdf">l2-paso-demensajesenjava-v1b</a>
+      <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L3-cliente_servidor_en_java-v1b.pdf">l3-cliente-servidorenjava-v1b</a>
+      <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L4-rmi_en_java-v1a.pdf">l4-rmi-enjava-v1a</a>
+      <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L5-rmi_callback-v1b.pdf">l5-rmi-callback-v1b</a>
+    </ol></td>
+   </tr> 
+   <tr>
+    <td>3</td><td>Desarrollo de aplicaciones distribuidas en CORBA</td>
+    <td><ol type="1">
+     <li> xxxx
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L6-corba_en_java-v1d.pdf">l6-corba-enjava-v1d</a>
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L7-corba_detalles-v1c.pdf">l7-corba-detalles-v1b</a>
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L8-corba_servicios-v1a.pdf">l8-corba-servicios-v1a</a>
+    </ol></td>
+   </tr> 
+   <tr>
+    <td>4</td><td>Aplicaciones de Internet</td>
+    <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L9-soap_introduccion-v1b.pdf">l9-soap-introduccion-v1b</a>
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L10-servicio_web-v1b.pdf">l10-servicio-web-v1b</a>
+    </ol></td>
+   </tr> 
+   <tr>
+    <td>5</td><td>Desarrollo de aplicaciones distribuidas con .NET</td>
+    <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L11-dotnet-v1c.pdf">l11-dotnet-v1c</a>
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L12-dotnet_prog-v1c.pdf">l12-dotnet-prog-v1c</a>
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L13-dotnet_ws-v1c.pdf">l13-dotnet-ws-v1c</a>
+    </ol></td>
+   </tr> 
+   <tr>
+    <td>6</td><td>Paradigmas avanzados de computación distribuida</td>
+    <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L14-avanzado-v1a.pdf">l14-avanzado-v1a</a>
+        <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L15-tendencias-v1b.pdf">l15-tendencias-v1b</a>
+    </ol></td>
+   </tr> 
+  </table>
+  </ul> 
+</html>
+
 
 * Sistemas Operativos (201x-201y, Grado en Ingeniería Informática)
 
