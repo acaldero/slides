@@ -5,7 +5,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td><td>Videos</td></tr>
+  <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
   <tr><td>1</td><td>Introducción al lenguaje C </td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc.pdf">clase_w1-introduccionc.pdf</a>
@@ -61,7 +61,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Lección</td><td>Tema</td><td>Transparencias</td></tr>
+  <tr><th>Lección</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>1</td><td>Introducción a los computadores</td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t1-introduccion-v3a.pdf">t1-introduccion-v3e</a>
@@ -107,7 +107,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Lección</td><td>Tema</td><td>Transparencias</td></tr>
+  <tr><th>Lección</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>1</td><td>Introducción</td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1a-introduccion-v3d.pdf">clases-1a-introduccion-v3b</a>
@@ -157,7 +157,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Session</td><td>Subject</td><td>Slides</td></tr>
+  <tr><th>Session</th><th>Subject</th><th>Slides</th></tr>
   <tr><td>5</td><td>File systems</td>
       <td><ol type="1">
         <li> <a href="http://es.slideshare.net/AlejandroCalderonMat/l5-introduction-to-file-systems-v4a">l5-introduction-to-file-systems-v4a</a>
@@ -179,7 +179,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td><td>Videos</td></tr>
+  <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
   <tr><td>2</td><td>Sistemas de altas prestaciones en entornos distribuidos</td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v9c.pdf">sistemas-de-altas-prestaciones-en-entornos-distribuidos-v9a</a>
@@ -202,7 +202,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td><td>Videos</td></tr>
+  <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
   <tr><td>3</td><td>Introduction to virtualization</td>
       <td><ol type="1">
         * <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-v2d.pdf">lesson3-virtualization-v2d.pdf</a>
@@ -248,8 +248,9 @@
 * Sistemas Operativos (201x-201y, Grado en Ingeniería Informática)
 
 <html>
+  <ul>
   <table>
-   <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td></tr>   
+   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>   
    <tr>
     <td>2 y 4</td><td>Introducción al entorno de trabajo</td>
     <td>  
@@ -292,5 +293,6 @@
     </td>
    </tr> 
   </table>
+  </ul> 
 </html>
 
