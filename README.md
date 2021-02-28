@@ -2,13 +2,56 @@
 
 * [Sistemas Operativos (2020-2021, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoso/)
 
-| Sesión 	| Tema                                       	| Transparencias                                                                                                           	| Videos |
-|--------	|--------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	|-------	|
-| 1      	| Introducción al lenguaje C                 	| [clase_w1-introduccionc.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc.pdf)        |   	    |
-| 2  	    | Introducción a los sistemas operativos     	| [clase_w2-introduccion.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf)      	   |       	|
-| 3  	    | Servicios del Sistema Operativo	            | [clase_w3-serviciosdelso.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso.pdf)	     |       	|
-| 4  	    | Introducción a la gestión de procesos      	| [clase_w4-procesos.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf)	                 |   	    |
-| 5  	    | Planificación de procesos                  	| [clase_w5-planificacion.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w5-planificacion.pdf)	       |       	|
+<html>
+ <ul>
+ <table>
+  <tr>
+      <td>Session</td><td>Subject</td><td>Slides</td><td>Videos</td>
+  </tr>
+  <tr><td>1</td><td>Introducción al lenguaje C </td>
+      <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc.pdf">clase_w1-introduccionc.pdf</a>
+      </ul></td>
+      <td><ol type="1">
+        <li>
+      </ul></td>
+  </tr>
+  <tr><td>2</td><td>Introducción a los sistemas operativos</td>
+      <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf">clase_w2-introduccion.pdf</a>
+      </ul></td>
+      <td><ol type="1">
+        <li>
+      </ul></td>
+  </tr>
+  <tr><td>3</td><td>Servicios del Sistema Operativo </td>
+      <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso.pdf">clase_w3-serviciosdelso.pdf</a>
+      </ul></td>
+      <td><ol type="1">
+        <li>
+      </ul></td>
+  </tr>
+  <tr><td>4</td><td>Introducción a la gestión de procesos</td>
+      <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf">clase_w4-procesos.pdf</a>
+      </ul></td>
+      <td><ol type="1">
+        <li>
+      </ul></td>
+  </tr>
+  <tr><td>5</td><td>Planificación de procesos</td>
+      <td><ol type="1">
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w5-planificacion.pdf">clase_w5-planificacion.pdf</a>
+      </ul></td>
+      <td><ol type="1">
+        <li>
+      </ul></td>
+  </tr>
+ </table>
+ </ul>
+</html>
+
 
 * [Estructura de Computadores (2020-2021, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoec/)
 
@@ -17,37 +60,37 @@
  <table>
   <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td></tr>
   <tr><td>1</td><td>Introducción a los computadores</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t1-introduccion-v3a.pdf">t1-introduccion-v3e</a>
       </ul></td>
   </tr>
   <tr><td>2</td><td>Representación de la información</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t2-representacion-v4c.pdf">t2-representacion-v4c</a>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Fundamentos de la programación en ensamblador</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-i-v1f.pdf">t3-ensamblador-i-v1f</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-ii-v1d.pdf">t3-ensamblador-ii-v1d</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-iii-v1d.pdf">t3-ensamblador-iii-v1d</a>
       </ul></td>
   </tr>
   <tr><td>4</td><td>El procesador </td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-i-v3b.pdf">t4-procesador-i-v3d</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-ii-v3b.pdf">t4-procesador-ii-v3c</a>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Jerarquía de memoria </td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-i-intro-v4a.pdf">t5-memoria-i-intro-v4a</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-ii-cache-v4a.pdf">t5-memoria-ii-cache-v4a</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-iii-virtual-v4c.pdf">t5-memoria-iii-virtual-v4c</a>
       </ul></td>
   </tr>
   <tr><td>6</td><td>Técnicas de E/S y dispositivos periféricos</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t6-eys-v2c.pdf">t6-eys-v2c</a>
       </ul></td>
   </tr>
@@ -63,40 +106,40 @@
  <table>
   <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td></tr>
   <tr><td>1</td><td>Introducción</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1a-introduccion-v3d.pdf">clases-1a-introduccion-v3b</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1b-bajodemanda-v2b.pdf">clases-1b-bajodemanda-v2b</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1c-libc_memoria-v2a.pdf">clases-1c-libcmemoria-v2a</a>
       </ul></td>
   </tr>
   <tr><td>2</td><td>Aspectos principales del funcionamiento de un sistema operativo</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-2-funcionamiento-v3c.pdf">clases-2-funcionamiento-v3c</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-2-get_date-v2a.pdf">ejercicio-2-get_date-v2a</a>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Procesos, hilos y planificación</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3a-ppdsa_introduccion-v5d.pdf">clases-3a-introduccion-v5d</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3b-ppdsa_cambioscontexto-v5e.pdf">clases-3b-cambioscontexto-v5e</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-3b-prioridad_rr-v1e.pdf">ejercicio-3b-prioridad_rr-v1e</a>
       </ul></td>
   </tr>
   <tr><td>4</td><td>Drivers y servicios ampliados</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-3c-ppdsa_drv_sa-v5e.pdf">clases-3c-drivers_sa-v5e</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-3c-teclado-v2a.pdf">ejercicio-3c-teclado-v2a</a>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Sistemas de ficheros</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-4a-sf_agf-v6a.pdf">clases-4a-sf_agf-v6a</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-4b-sf_agf-v1a.pdf">clases-4b-sf_agf-v1b</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/ejercicio-4-sf1-v1c.pdf">ejercicio-4-sf1-v1c</a>
       </ul></td>
   </tr>
   <tr><td>6</td><td>Gestión de memoria</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-5a-memoria_introduccion-v3b.pdf">clases-5a-introduccion-v3b</a>
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-5b-memoria_agf-v4b.pdf">clases-5b-gestion-v4b</a>
       </ul></td>
@@ -113,13 +156,13 @@
     <td>Session</td><td>Subject</td><td>Slides</td>
   </tr>
   <tr><td>5</td><td>File systems</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="http://es.slideshare.net/AlejandroCalderonMat/l5-introduction-to-file-systems-v4a">l5-introduction-to-file-systems-v4a</a>
         <li> <a href="http://es.slideshare.net/AlejandroCalderonMat/l5-introduction-to-file-system-design-v4a">l5-introduction-to-file-system-design-v4a</a>
       </ul></td>
   </tr>
   <tr><td>6</td><td>Memory management</td>
-      <td><ul>
+      <td><ol type="1">
         <li> <a href="http://es.slideshare.net/AlejandroCalderonMat/l6a-introduction-to-memory-management-v2f">l6a-introduction-to-memory-management-v2f</a>
       </ul></td>
   </tr>
