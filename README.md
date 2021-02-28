@@ -21,7 +21,11 @@
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf">clase_w2-introduccion.pdf</a>
       </ul></td>
       <td><ol type="1">
-        <li>
+        <li><a href="https://www.youtube.com/watch?v=inmX-vTr_Z8">Qué es un SO e introducción a su evolución</a>
+        <li><a href="https://www.youtube.com/watch?v=01QdkF0HlqE">Principales características y objetivos</a>
+        <li><a href="https://www.youtube.com/watch?v=LsVusDL5Kiw">Tareas principales del SO</a>
+        <li><a href="https://www.youtube.com/watch?v=vGR4pbL7hv0">Funcionamiento básico del sistema operativo</a>
+        <li><a href="https://www.youtube.com/watch?v=f8XmDLx_gqE">Arranque del sistema operativo</a>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Servicios del Sistema Operativo </td>
@@ -29,7 +33,8 @@
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso.pdf">clase_w3-serviciosdelso.pdf</a>
       </ul></td>
       <td><ol type="1">
-        <li>
+        <li><a href="https://www.youtube.com/watch?v=Y7cSl5W8RGY">Mecanismo de invocación de una llamada al sistema</a>
+        <li><a href="https://www.youtube.com/watch?v=lS1MtuXaKUI">Trabajando con ficheros y directorios</a>
       </ul></td>
   </tr>
   <tr><td>4</td><td>Introducción a la gestión de procesos</td>
