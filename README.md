@@ -3,6 +3,11 @@
 ## Tabla de contenidos
   * [Sistemas Operativos](#sistemas-operativos-2020-2021)
   * [Estructura de Computadores](#estructura-de-computadores-2020-2021)
+  * [Diseño de Sistemas Operativos (2019-2020)](#diseño-de-sistemas-operativos-2019-2020)
+  * [Operating System Design (2019-2020)](#operating-system-design-2019-2020)
+  * [Diseño de sistemas distribuidos (MCYTI)](#diseño-de-sistemas-distribuidos-mcyti)
+  * [Desarrollo de Aplicaciones Distribuidas (II)](#desarrollo-de-aplicaciones-distribuidas-ii)
+  * [Sistemas Operativos](#sistemas-operativos)
 
 
 ## Asignaturas
@@ -63,7 +68,7 @@
 </html>
 
 
-### [Estructura de Computadores (2020-2021)
+### Estructura de Computadores (2020-2021)
 
 <html>
  <ul>
@@ -109,7 +114,7 @@
 </html>
 
 
- * [Diseño de Sistemas Operativos (2019-2020, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infodso/)
+### Diseño de Sistemas Operativos (2019-2020)
 
 <html>
  <ul>
@@ -159,7 +164,7 @@
 </html>
 
 
- * [Operating System Design (2019-2020, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infodso/)
+### Operating System Design (2019-2020)
 
 <html>
  <ul>
@@ -181,7 +186,7 @@
 </html>
 
 
- * [Diseño de sistemas distribuidos (Máster en Ciencia y Tecnología Informática)](http://www.arcos.inf.uc3m.es/~dsd/)
+### Diseño de sistemas distribuidos (MCYTI)
 
 <html>
  <ul>
@@ -204,7 +209,7 @@
 </html>
 
 
- * [Fundamentals of Big Data Software and Hardware Technologies (Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics)](http://www.arcos.inf.uc3m.es/~dsd/)
+### Fundamentals of Big Data Software and Hardware Technologies (MADMBD/MBDA)
 
 <html>
  <ul>
@@ -227,7 +232,8 @@
 </html>
 
 
-* Desarrollo de Aplicaciones Distribuidas (Ingeniería Informática)
+### Desarrollo de Aplicaciones Distribuidas (II)
+
 <html>
   <ul>
   <table>
@@ -282,7 +288,7 @@
 </html>
 
 
-* Sistemas Operativos (201x-201y, Grado en Ingeniería Informática)
+### Sistemas Operativos
 
 <html>
   <ul>
