@@ -102,7 +102,7 @@
 </html>
 
 
-  * [Diseño de Sistemas Operativos (2019-2020, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infodso/)
+ * [Diseño de Sistemas Operativos (2019-2020, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infodso/)
 
 <html>
  <ul>
@@ -152,7 +152,7 @@
 </html>
 
 
-  * [Operating System Design (2019-2020, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infodso/)
+ * [Operating System Design (2019-2020, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infodso/)
 
 <html>
  <ul>
@@ -174,7 +174,7 @@
 </html>
 
 
-  * [Diseño de sistemas distribuidos (Máster en Ciencia y Tecnología Informática)](http://www.arcos.inf.uc3m.es/~dsd/)
+ * [Diseño de sistemas distribuidos (Máster en Ciencia y Tecnología Informática)](http://www.arcos.inf.uc3m.es/~dsd/)
 
 <html>
  <ul>
@@ -197,7 +197,7 @@
 </html>
 
 
-  * [Fundamentals of Big Data Software and Hardware Technologies (Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics)](http://www.arcos.inf.uc3m.es/~dsd/)
+ * [Fundamentals of Big Data Software and Hardware Technologies (Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics)](http://www.arcos.inf.uc3m.es/~dsd/)
 
 <html>
  <ul>
@@ -247,19 +247,50 @@
 
 * Sistemas Operativos (201x-201y, Grado en Ingeniería Informática)
 
-| Sesión 	      | Tema                                       	| Transparencias                                                                                                           	|  
-|--------------	|--------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	| 
-| 2 y 4        	| Introducción al entorno de trabajo         	| [clase_02-lenguajec-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-lenguajec-v1c.pdf)        | 
-|        	      |                                            	| [clase_02-linux-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-linux-v1d.pdf)                | 
-|        	      |                                            	| [clase_04-depuracion-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-depuracion-v1d.pdf)      | 
-|        	      |                                            	| [clase_04-linux-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-linux-v1d.pdf)                | 
-|        	      |                                            	| [clase_cfaqs-v1a.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_cfaqs-v1a.pdf)                      | 
-|              	|                                            	| [clase_04-lenguajec-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-lenguajec-v1d.pdf)        | 
-| 6            	| Llamadas al sistema                        	| [clase_06-compilacion-v1e.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-compilacion-v1e.pdf)    |  
-|              	|                                            	| [clase_06-llsistema-v1f.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-llsistema-v1f.pdf)        |  
-| 10     	      | Procesos                                   	| [clase_10-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_10-v1c.pdf)                            | 
-| 12           	| Tuberías                                   	| [clase_12-pipes-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_12-pipes-v1c.pdf)                | 
-| 26           	| Shell-scripts                              	| [clase_13-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_13-v1c.pdf)                            |  
-| 23,25,27 y 28	| Sistema de ficheros                        	| [clase_06-sf-v2c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-sf-v2c.pdf)                      | 
-|              	|                                            	| [clase_28-mv_v2b.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_28-mv_v2b.pdf)                      | 
+<html>
+  <table>
+   <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td></tr>   
+   <tr>
+    <td>2 y 4</td><td>Introducción al entorno de trabajo</td>
+    <td>  
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-lenguajec-v1c.pdf">clase_02-lenguajec-v1c.pdf</a>     
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-linux-v1d.pdf">clase_02-linux-v1d.pdf</a>            
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-depuracion-v1d.pdf">clase_04-depuracion-v1d.pdf</a>  
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-linux-v1d.pdf">clase_04-linux-v1d.pdf</a>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_cfaqs-v1a.pdf">clase_cfaqs-v1a.pdf</a>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-lenguajec-v1d.pdf">clase_04-lenguajec-v1d.pdf</a>
+    </td>
+   </tr> 
+   <tr>
+    <td>6</td><td>Llamadas al sistema</td>
+    <td>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-compilacion-v1e.pdf">clase_06-compilacion-v1e.pdf</a>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-llsistema-v1f.pdf">clase_06-llsistema-v1f.pdf</a>
+    </td>
+   </tr>
+   <tr>
+    <td>10</td><td>Procesos</td>
+    <td>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_10-v1c.pdf">clase_10-v1c.pdf</a>
+    </td>
+   </tr> 
+   <tr>
+    <td>12</td><td>Tuberías</td>
+    <td>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_12-pipes-v1c.pdf">clase_12-pipes-v1c.pdf</a>
+    </td>
+   </tr> 
+   <tr><td>26</td><td>Shell-scripts</td>
+    <td> 
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_13-v1c.pdf">clase_13-v1c.pdf</a>
+    </td>
+   </tr> 
+   <tr><td>23,25,27 y 28</td><td>Sistema de ficheros</td>
+    <td>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-sf-v2c.pdf">clase_06-sf-v2c.pdf</a>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_28-mv_v2b.pdf">clase_28-mv_v2b.pdf</a>
+    </td>
+   </tr> 
+  </table>
+</html>
 
