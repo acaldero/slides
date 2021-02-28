@@ -205,9 +205,9 @@
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>3</td><td>Introduction to virtualization</td>
       <td><ol type="1">
-        * <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-v2d.pdf">lesson3-virtualization-v2d.pdf</a>
-        * <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-extra_vbox-v2d.pdf">lesson3-virtualization-extra_vbox-v2d.pdf</a>
-        * <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-extra_docker-v1a.pdf">lesson3-virtualization-extra_docker-v1a.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-v2d.pdf">lesson3-virtualization-v2d.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-extra_vbox-v2d.pdf">lesson3-virtualization-extra_vbox-v2d.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson3-virtualization-extra_docker-v1a.pdf">lesson3-virtualization-extra_docker-v1a.pdf</a>
        </ul></td>
   </tr>
   <tr><td>11</td><td>Introduction to Distributed Computing</td>
@@ -228,7 +228,6 @@
    <tr>
     <td>1</td><td>Introducción</td>
     <td><ol type="1">
-     <li> xxxx
         <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L1-introduccion-v1a.pdf">l1-introduccion-v1a</a>
     </ol></td>
    </tr> 
@@ -244,7 +243,6 @@
    <tr>
     <td>3</td><td>Desarrollo de aplicaciones distribuidas en CORBA</td>
     <td><ol type="1">
-     <li> xxxx
         <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L6-corba_en_java-v1d.pdf">l6-corba-enjava-v1d</a>
         <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L7-corba_detalles-v1c.pdf">l7-corba-detalles-v1b</a>
         <li> <a href="https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L8-corba_servicios-v1a.pdf">l8-corba-servicios-v1a</a>
