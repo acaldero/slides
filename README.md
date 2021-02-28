@@ -1,8 +1,6 @@
 # Materiales ARCOS.INF.UC3M.ES [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 
 
-
-* Grado en Ingeniería Informática:
-  * [Sistemas Operativos (2020-2021)](http://www.arcos.inf.uc3m.es/~infoso/)
+* [Sistemas Operativos (2020-2021, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoso/)
 
 | Sesión 	| Tema                                       	| Transparencias                                                                                                           	| Videos |
 |--------	|--------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	|-------	|
@@ -12,43 +10,22 @@
 | 4  	    | Introducción a la gestión de procesos      	| [clase_w4-procesos.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf)	                 |   	    |
 | 5  	    | Planificación de procesos                  	| [clase_w5-planificacion.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w5-planificacion.pdf)	       |       	|
 
-  * [Sistemas Operativos](http://www.arcos.inf.uc3m.es/~infoso/)
+* [Estructura de Computadores (2020-2021, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoec/)
 
-| Sesión 	      | Tema                                       	| Transparencias                                                                                                           	|  
-|--------------	|--------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	| 
-| 2 y 4        	| Introducción al entorno de trabajo         	| [clase_02-lenguajec-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-lenguajec-v1c.pdf)        | 
-|        	      |                                            	| [clase_02-linux-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-linux-v1d.pdf)                | 
-|        	      |                                            	| [clase_04-depuracion-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-depuracion-v1d.pdf)      | 
-|        	      |                                            	| [clase_04-linux-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-linux-v1d.pdf)                | 
-|        	      |                                            	| [clase_cfaqs-v1a.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_cfaqs-v1a.pdf)                      | 
-|              	|                                            	| [clase_04-lenguajec-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-lenguajec-v1d.pdf)        | 
-| 6            	| Llamadas al sistema                        	| [clase_06-compilacion-v1e.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-compilacion-v1e.pdf)    |  
-|              	|                                            	| [clase_06-llsistema-v1f.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-llsistema-v1f.pdf)        |  
-| 10     	      | Procesos                                   	| [clase_10-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_10-v1c.pdf)                            | 
-| 12           	| Tuberías                                   	| [clase_12-pipes-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_12-pipes-v1c.pdf)                | 
-| 26           	| Shell-scripts                              	| [clase_13-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_13-v1c.pdf)                            |  
-| 23,25,27 y 28	| Sistema de ficheros                        	| [clase_06-sf-v2c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-sf-v2c.pdf)                      | 
-|              	|                                            	| [clase_28-mv_v2b.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_28-mv_v2b.pdf)                      | 
+| Sesión 	| Tema                                          	| Transparencias                                                                                                               	|
+|--------	|-----------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------	|
+| 1      	| Introducción a los computadores            	   | [t1-introduccion-v3e](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t1-introduccion-v3a.pdf)               |
+| 2      	| Representación de la información              	| [t2-representacion-v4c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t2-representacion-v4c.pdf)           |
+| 3      	| Fundamentos de la programación en ensamblador  | [t3-ensamblador-i-v1f](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-i-v1f.pdf)             |
+|        	|                                               	| [t3-ensamblador-ii-v1d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-ii-v1d.pdf)           |
+|        	|                                               	| [t3-ensamblador-iii-v1d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-iii-v1d.pdf)         |
+| 4      	| El procesador                                 	| [t4-procesador-i-v3d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-i-v3b.pdf)               |
+|        	|                                               	| [t4-procesador-ii-v3c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-ii-v3b.pdf)             |
+| 5      	| Jerarquía de memoria                          	| [t5-memoria-i-intro-v4a](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-i-intro-v4a.pdf)         |
+|        	|                                               	| [t5-memoria-ii-cache-v4a](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-ii-cache-v4a.pdf)       |
+|        	|                                               	| [t5-memoria-iii-virtual-v4c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-iii-virtual-v4c.pdf) |
+| 6      	| Técnicas de E/S y dispositivos periféricos    	| [t6-eys-v2c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t6-eys-v2c.pdf)                                 |
 
-  * [Estructura de Computadores](http://www.arcos.inf.uc3m.es/~infoec/)
-    * Transparencias:
-      * 1 - Introducción a los computadores
-        * [t1-introduccion-v3e](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t1-introduccion-v3a.pdf)
-      * 2 - Representación de la información
-        * [t2-representacion-v4c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t2-representacion-v4c.pdf)
-      * 3 - Fundamentos de la programación en ensamblador
-        * [t3-ensamblador-i-v1f](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-i-v1f.pdf)
-        * [t3-ensamblador-ii-v1d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-ii-v1d.pdf)
-        * [t3-ensamblador-iii-v1d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-iii-v1d.pdf)
-      * 4 - El procesador
-        * [t4-procesador-i-v3d](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-i-v3b.pdf)
-        * [t4-procesador-ii-v3c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-ii-v3b.pdf)
-      * 5 - Jerarquía de memoria
-        * [t5-memoria-i-intro-v4a](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-i-intro-v4a.pdf)
-        * [t5-memoria-ii-cache-v4a](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-ii-cache-v4a.pdf)
-        * [t5-memoria-iii-virtual-v4c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-iii-virtual-v4c.pdf)
-      * 6 - Técnicas de E/S y dispositivos periféricos
-        * [t6-eys-v2c](https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t6-eys-v2c.pdf)
 
   * [Diseño de Sistemas Operativos](http://www.arcos.inf.uc3m.es/~infodso/)
     * Transparencias:
@@ -128,3 +105,22 @@
       * 6 - Paradigmas avanzados de computación distribuida
         * [l14-avanzado-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L14-avanzado-v1a.pdf)
         * [l15-tendencias-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L15-tendencias-v1b.pdf)
+
+* [Sistemas Operativos (201x-201y, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoso/)
+
+| Sesión 	      | Tema                                       	| Transparencias                                                                                                           	|  
+|--------------	|--------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	| 
+| 2 y 4        	| Introducción al entorno de trabajo         	| [clase_02-lenguajec-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-lenguajec-v1c.pdf)        | 
+|        	      |                                            	| [clase_02-linux-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-linux-v1d.pdf)                | 
+|        	      |                                            	| [clase_04-depuracion-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-depuracion-v1d.pdf)      | 
+|        	      |                                            	| [clase_04-linux-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-linux-v1d.pdf)                | 
+|        	      |                                            	| [clase_cfaqs-v1a.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_cfaqs-v1a.pdf)                      | 
+|              	|                                            	| [clase_04-lenguajec-v1d.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-lenguajec-v1d.pdf)        | 
+| 6            	| Llamadas al sistema                        	| [clase_06-compilacion-v1e.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-compilacion-v1e.pdf)    |  
+|              	|                                            	| [clase_06-llsistema-v1f.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-llsistema-v1f.pdf)        |  
+| 10     	      | Procesos                                   	| [clase_10-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_10-v1c.pdf)                            | 
+| 12           	| Tuberías                                   	| [clase_12-pipes-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_12-pipes-v1c.pdf)                | 
+| 26           	| Shell-scripts                              	| [clase_13-v1c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_13-v1c.pdf)                            |  
+| 23,25,27 y 28	| Sistema de ficheros                        	| [clase_06-sf-v2c.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-sf-v2c.pdf)                      | 
+|              	|                                            	| [clase_28-mv_v2b.pdf](https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_28-mv_v2b.pdf)                      | 
+
