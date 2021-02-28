@@ -280,7 +280,10 @@
 <html>
   <ul>
   <table>
-   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr> 
+   <thead>
+     <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
+   </thead>
+   <tbody>
    <tr>
     <td>2 y 4</td><td>Introducción al entorno de trabajo</td>
     <td><ol type="1">
@@ -322,6 +325,7 @@
      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_28-mv_v2b.pdf">clase_28-mv_v2b.pdf</a>
     </ol></td>
    </tr> 
+   <tbody>
   </table>
   </ul> 
 </html>
