@@ -1,6 +1,13 @@
 # Materiales ARCOS.INF.UC3M.ES [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 
 
-* [Sistemas Operativos (2020-2021, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoso/)
+## Tabla de contenidos
+  * [Sistemas Operativos](#sistemas-operativos-2020-2021)
+  * [Estructura de Computadores](#estructura-de-computadores-2020-2021)
+
+
+## Asignaturas
+
+### Sistemas Operativos (2020-2021)
 
 <html>
  <ul>
@@ -56,7 +63,7 @@
 </html>
 
 
-* [Estructura de Computadores (2020-2021, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoec/)
+### [Estructura de Computadores (2020-2021)
 
 <html>
  <ul>
