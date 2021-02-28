@@ -5,15 +5,13 @@
 <html>
  <ul>
  <table>
-  <tr>
-      <td>Session</td><td>Subject</td><td>Slides</td><td>Videos</td>
-  </tr>
+  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td><td>Videos</td></tr>
   <tr><td>1</td><td>Introducción al lenguaje C </td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc.pdf">clase_w1-introduccionc.pdf</a>
       </ul></td>
       <td><ol type="1">
-        <li>
+        <li><a href="https://www.youtube.com/watch?v=EFEj13YU7I0&list=PLEIHi6crVts7HIrUr88SSJsFJC3scIKlA">Introducción a C</a>
       </ul></td>
   </tr>
   <tr><td>2</td><td>Introducción a los sistemas operativos</td>
@@ -63,7 +61,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td></tr>
+  <tr><td>Lección</td><td>Tema</td><td>Transparencias</td></tr>
   <tr><td>1</td><td>Introducción a los computadores</td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t1-introduccion-v3a.pdf">t1-introduccion-v3e</a>
@@ -109,7 +107,7 @@
 <html>
  <ul>
  <table>
-  <tr><td>Sesión</td><td>Tema</td><td>Transparencias</td></tr>
+  <tr><td>Lección</td><td>Tema</td><td>Transparencias</td></tr>
   <tr><td>1</td><td>Introducción</td>
       <td><ol type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/clases-1a-introduccion-v3d.pdf">clases-1a-introduccion-v3b</a>
@@ -157,9 +155,7 @@
 <html>
  <ul>
  <table>
-  <tr>
-    <td>Session</td><td>Subject</td><td>Slides</td>
-  </tr>
+  <tr><td>Session</td><td>Subject</td><td>Slides</td></tr>
   <tr><td>5</td><td>File systems</td>
       <td><ol type="1">
         <li> <a href="http://es.slideshare.net/AlejandroCalderonMat/l5-introduction-to-file-systems-v4a">l5-introduction-to-file-systems-v4a</a>
