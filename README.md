@@ -192,12 +192,8 @@
       * 11 - Introduction to Distributed Computing
         * [lesson11-distributed-computing-v1b.pdf](https://acaldero.github.io/slides/MADMBD_Fundamentals_of_Big_Data_Software_and_Hardware_Technologies/lesson4-intro-cloud-v2f.pdf)
 
-* Ingeniería Técnica en Informática de Gestión:
-  * [Estructura de Computadores](http://www.arcos.inf.uc3m.es/~ec/)
-  * [Sistemas Tolerantes a Fallos](http://www.arcos.inf.uc3m.es/~stf/)
-
 * Ingeniería Informática:
-  * [Desarrollo de Aplicaciones Distribuidas](http://www.arcos.inf.uc3m.es/~dad/)
+  * Desarrollo de Aplicaciones Distribuidas
     * Transparencias:
       * 1 - Introducción
         * [l1-introduccion-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L1-introduccion-v1a.pdf)
@@ -221,7 +217,7 @@
         * [l14-avanzado-v1a](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L14-avanzado-v1a.pdf)
         * [l15-tendencias-v1b](https://acaldero.github.io/slides/II_Desarrollo_De_Aplicacones_Distribuidas/L15-tendencias-v1b.pdf)
 
-* [Sistemas Operativos (201x-201y, Grado en Ingeniería Informática)](http://www.arcos.inf.uc3m.es/~infoso/)
+* Sistemas Operativos (201x-201y, Grado en Ingeniería Informática)
 
 | Sesión 	      | Tema                                       	| Transparencias                                                                                                           	|  
 |--------------	|--------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	| 
