@@ -23,6 +23,15 @@
  <ul>
  <table>
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
+  <tr><td>1</td><td>Introducción a Ubuntu 18.04 LTS</td>
+      <td><ul>
+      </ul></td>
+      <td><ul type="1">
+        <li><a href="https://www.youtube.com/watch?v=MwfB9lnB0_A">Instalación de Ubuntu</a>
+        <li><a href="https://youtu.be/2U5bJKUX_6s">Ficheros y directorios en línea de mandatos</a>
+        <li><a href="https://youtu.be/ym3BeppIE8I">Gestión de trabajos y procesos en línea de mandatos</a>
+      </ul></td>
+  </tr>
   <tr><td>1</td><td>Introducción al lenguaje C </td>
       <td><ul>
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc.pdf">clase_w1-introduccionc.pdf</a>
@@ -49,7 +58,8 @@
       </ul></td>
       <td><ul type="1">
         <li><a href="https://www.youtube.com/watch?v=Y7cSl5W8RGY">Mecanismo de invocación de una llamada al sistema</a>
-        <li><a href="https://www.youtube.com/watch?v=lS1MtuXaKUI">Trabajando con ficheros y directorios</a>
+        <li><a href="https://www.youtube.com/watch?v=lS1MtuXaKUI">Servicios para ficheros y directorios</a>
+        <li><a href="https://www.youtube.com/watch?v=xiTzcWiJcOM">Servicios para gestión de procesos</a>
       </ul></td>
   </tr>
   <tr><td>4</td><td>Introducción a la gestión de procesos</td>
