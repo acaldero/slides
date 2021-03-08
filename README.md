@@ -25,6 +25,7 @@
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
   <tr><td>1</td><td>Introducción a Ubuntu 18.04 LTS</td>
       <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-instalacion.pdf">clase_w0-ubuntu-instalacion.pdf</a>
       </ul></td>
       <td><ul type="1">
         <li><a href="https://www.youtube.com/watch?v=MwfB9lnB0_A">Instalación de Ubuntu</a>
