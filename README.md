@@ -25,7 +25,9 @@
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
   <tr><td>1</td><td>Introducción a Ubuntu 18.04 LTS</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-instalacion.pdf">clase_w0-ubuntu-instalacion.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-instalacion.pdf">clase_w0-instalacion.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-fichydirs.pdf">clase_w0-fichydirs.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-procesos.pdf">clase_w0-procesos.pdf</a>
       </ul></td>
       <td><ul type="1">
         <li><a href="https://www.youtube.com/watch?v=MwfB9lnB0_A">Instalación de Ubuntu</a>
@@ -68,7 +70,8 @@
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf">clase_w4-procesos.pdf</a>
       </ul></td>
       <td><ul type="1">
-        <li>
+        <li><a href="https://youtu.be/2u4T_dclx58">Introducción a procesos y su modelo</a>
+        <li><a href="https://youtu.be/yt6B38gDEwQ">Ciclo de vida: estados de un proceso</a>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Planificación de procesos</td>
