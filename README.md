@@ -82,6 +82,14 @@
         <li>
       </ul></td>
   </tr>
+  <tr><td>6</td><td>Procesos e hilos</td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6-hilos.pdf">clase_w6-hilos.pdf</a>
+      </ul></td>
+      <td><ul type="1">
+        <li>
+      </ul></td>
+  </tr>
  </table>
  </ul>
 </html>
