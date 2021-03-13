@@ -20,42 +20,45 @@
 ### Sistemas Operativos (2020-2021)
 
 <html>
- <ul>
+ <small>
  <table>
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th><th>Videos</th></tr>
-  <tr><td>1</td><td>Introducción a Ubuntu 18.04 LTS</td>
+  <tr><td rowspan="2">1</td>
+      <td>Introducción a Ubuntu 18.04 LTS</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-instalacion.pdf">clase_w0-instalacion.pdf</a>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-fichydirs.pdf">clase_w0-fichydirs.pdf</a>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-procesos.pdf">clase_w0-procesos.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-instalacion.pdf">clase_w0-instalacion.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-fichydirs.pdf">clase_w0-fichydirs.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-procesos.pdf">clase_w0-procesos.pdf</a></li>
       </ul></td>
       <td><ul type="1">
-        <li><a href="https://www.youtube.com/watch?v=MwfB9lnB0_A">Instalación de Ubuntu</a>
-        <li><a href="https://youtu.be/2U5bJKUX_6s">Ficheros y directorios en línea de mandatos</a>
-        <li><a href="https://youtu.be/ym3BeppIE8I">Gestión de trabajos y procesos en línea de mandatos</a>
+        <li><a href="https://www.youtube.com/watch?v=MwfB9lnB0_A">Instalación de Ubuntu</a></li>
+        <li><a href="https://youtu.be/2U5bJKUX_6s">Ficheros y directorios en línea de mandatos</a></li>
+        <li><a href="https://youtu.be/ym3BeppIE8I">Gestión de trabajos y procesos en línea de mandatos</a></li>
       </ul></td>
   </tr>
-  <tr><td>1</td><td>Introducción al lenguaje C </td>
+  <tr><td>Introducción al lenguaje C </td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc.pdf">clase_w1-introduccionc.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc.pdf">clase_w1-introduccionc.pdf</a></li>
       </ul></td>
       <td><ul type="1">
-        <li><a href="https://www.youtube.com/watch?v=EFEj13YU7I0&list=PLEIHi6crVts7HIrUr88SSJsFJC3scIKlA">Introducción a C</a>
+        <li><a href="https://www.youtube.com/watch?v=EFEj13YU7I0&list=PLEIHi6crVts7HIrUr88SSJsFJC3scIKlA">Introducción a C</a></li>
       </ul></td>
   </tr>
-  <tr><td>2</td><td>Introducción a los sistemas operativos</td>
+  <tr><td>2</td>
+      <td>Introducción a los sistemas operativos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf">clase_w2-introduccion.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf">clase_w2-introduccion.pdf</a></li>
       </ul></td>
       <td><ul type="1">
-        <li><a href="https://www.youtube.com/watch?v=inmX-vTr_Z8">Qué es un SO e introducción a su evolución</a>
-        <li><a href="https://www.youtube.com/watch?v=01QdkF0HlqE">Principales características y objetivos</a>
-        <li><a href="https://www.youtube.com/watch?v=LsVusDL5Kiw">Tareas principales del SO</a>
-        <li><a href="https://www.youtube.com/watch?v=vGR4pbL7hv0">Funcionamiento básico del sistema operativo</a>
-        <li><a href="https://www.youtube.com/watch?v=f8XmDLx_gqE">Arranque del sistema operativo</a>
+        <li><a href="https://www.youtube.com/watch?v=inmX-vTr_Z8">Qué es un SO e introducción a su evolución</a></li>
+        <li><a href="https://www.youtube.com/watch?v=01QdkF0HlqE">Principales características y objetivos</a></li>
+        <li><a href="https://www.youtube.com/watch?v=LsVusDL5Kiw">Tareas principales del SO</a></li>
+        <li><a href="https://www.youtube.com/watch?v=vGR4pbL7hv0">Funcionamiento básico del sistema operativo</a></li>
+        <li><a href="https://www.youtube.com/watch?v=f8XmDLx_gqE">Arranque del sistema operativo</a></li>
       </ul></td>
   </tr>
-  <tr><td>3</td><td>Servicios del Sistema Operativo </td>
+  <tr><td>3</td>
+      <td>Servicios del Sistema Operativo </td>
       <td><ul>
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso.pdf">clase_w3-serviciosdelso.pdf</a>
       </ul></td>
@@ -65,7 +68,8 @@
         <li><a href="https://www.youtube.com/watch?v=xiTzcWiJcOM">Servicios para gestión de procesos</a>
       </ul></td>
   </tr>
-  <tr><td>4</td><td>Introducción a la gestión de procesos</td>
+  <tr><td>4</td>
+      <td>Introducción a la gestión de procesos</td>
       <td><ul>
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf">clase_w4-procesos.pdf</a>
       </ul></td>
@@ -74,15 +78,17 @@
         <li><a href="https://youtu.be/yt6B38gDEwQ">Ciclo de vida: estados de un proceso</a>
       </ul></td>
   </tr>
-  <tr><td>5</td><td>Planificación de procesos</td>
+  <tr><td>5</td>
+      <td>Planificación de procesos</td>
       <td><ul>
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w5-planificacion.pdf">clase_w5-planificacion.pdf</a>
       </ul></td>
       <td><ul type="1">
-        <li>
+        <li><a href="https://youtu.be/jeENw9W2qs8">Principales planificadores</a>
       </ul></td>
   </tr>
-  <tr><td>6</td><td>Procesos e hilos</td>
+  <tr><td>6</td>
+      <td>Procesos e hilos</td>
       <td><ul>
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6-hilos.pdf">clase_w6-hilos.pdf</a>
       </ul></td>
@@ -90,16 +96,24 @@
         <li>
       </ul></td>
   </tr>
+  <tr><td>7</td>
+      <td>Comunicación entre procesos</td>
+      <td><ul>
+        <li>
+      </ul></td>
+      <td><ul type="1">
+        <li>
+      </ul></td>
+  </tr>
  </table>
- </ul>
+ </small>
 </html>
 
 
 ### Estructura de Computadores (2020-2021)
-
 <html>
- <ul>
- <table>
+ <small>
+ <table style="width:100%;" width="100%">
   <tr><th>Lección</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>1</td><td>Introducción a los computadores</td>
       <td><ul type="1">
@@ -137,14 +151,14 @@
       </ul></td>
   </tr>
  </table>
- </ul>
+ </small>
 </html>
 
 
 ### Diseño de Sistemas Operativos (2019-2020)
 
 <html>
- <ul>
+ <small>
  <table>
   <tr><th>Lección</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>1</td><td>Introducción</td>
@@ -187,14 +201,14 @@
       </ul></td>
   </tr>
  </table>
- </ul>
+ </small>
 </html>
 
 
 ### Operating System Design (2019-2020)
 
 <html>
- <ul>
+ <small>
  <table>
   <tr><th>Session</th><th>Subject</th><th>Slides</th></tr>
   <tr><td>5</td><td>File systems</td>
@@ -209,14 +223,14 @@
       </ul></td>
   </tr>
  </table>
- </ul>
+ </small>
 </html>
 
 
 ### Diseño de sistemas distribuidos (MCYTI)
 
 <html>
- <ul>
+ <small>
  <table>
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>2</td><td>Sistemas de altas prestaciones en entornos distribuidos</td>
@@ -232,14 +246,14 @@
       </ul></td>
   </tr>
  </table>
- </ul>
+ </small>
 </html>
 
 
 ### Fundamentals of Big Data Software and Hardware Technologies (MADMBD/MBDA)
 
 <html>
- <ul>
+ <small>
  <table>
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>3</td><td>Introduction to virtualization</td>
@@ -255,14 +269,14 @@
       </ul></td>
   </tr>
  </table>
- </ul>
+ </small>
 </html>
 
 
 ### Desarrollo de Aplicaciones Distribuidas (II)
 
 <html>
-  <ul>
+  <small>
   <table>
    <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr> 
    <tr>
@@ -311,14 +325,14 @@
     </ul></td>
    </tr> 
   </table>
-  </ul> 
+  </small> 
 </html>
 
 
 ### Sistemas Operativos
 
 <html>
-  <ul>
+  <small>
   <table>
    <thead>
      <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
@@ -367,5 +381,5 @@
    </tr> 
    <tbody>
   </table>
-  </ul> 
+  </small> 
 </html>
