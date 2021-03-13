@@ -7,32 +7,24 @@
  <table>
   <tr><th>Titulación</th><th>Asignatura</th></tr>
   <tr>
-      <td>Grado en Ingeniería Informática</td>
-      <td><ul>
-        <li> <a href="https://github.com/acaldero/slides/blob/main/README.md#sistemas-operativos-2020-2021">Sistemas Operativos (2020-2021)</a></li>
-        <li> <a href="https://github.com/acaldero/slides/#estructura-de-computadores-2020-2021">Estructura de Computadores (2020-2021)</a></li>
-        <li> <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-operativos-2019-2020">Diseño de Sistemas Operativos</a></li>
-        <li> <a href="https://github.com/acaldero/slides/#operating-system-design-2019-2020">Operating System Design</a></li>
-        <li> <a href="https://github.com/acaldero/slides/#sistemas-operativos">Sistemas Operativos</a></li>
-      </ul></td>
+      <td rowspan="5"> :file_folder: Grado en Ingeniería Informática</td>
+      <td> :books: <a href="https://github.com/acaldero/slides/blob/main/README.md#sistemas-operativos-2020-2021">Sistemas Operativos (2020-2021)</a></td>
+  </tr>
+  <tr><td> :books: <a href="https://github.com/acaldero/slides/#estructura-de-computadores-2020-2021">Estructura de Computadores (2020-2021)</a></td></tr>
+  <tr><td> :books: <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-operativos-2019-2020">Diseño de Sistemas Operativos</a></td></tr>
+  <tr><td> :books: <a href="https://github.com/acaldero/slides/#operating-system-design-2019-2020">Operating System Design</a></td></tr>
+  <tr><td> :books: <a href="https://github.com/acaldero/slides/#sistemas-operativos">Sistemas Operativos</a></td></tr>
+  <tr>
+      <td> :file_folder: Máster Universitario en Ciencia y Tecnología Informática</td>
+      <td> :books: <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-distribuidos-mcyti">Diseño de sistemas distribuidos</a></td>
   </tr>
   <tr>
-      <td>Máster Universitario en Ciencia y Tecnología Informática</td>
-      <td><ul>
-        <li> <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-distribuidos-mcyti">Diseño de sistemas distribuidos</a></li>
-      </ul></td>
+      <td> :file_folder: Master in Big Data Analytics</td>
+      <td> :books: <a href="https://github.com/acaldero/slides/#fundamentals-of-big-data-software-and-hardware-technologies-madmbdmbda">Fundamentals of Big Data Software and Hardware Technologies</a></td>
   </tr>
   <tr>
-      <td>Master in Big Data Analytics</td>
-      <td><ul>
-        <li> <a href="https://github.com/acaldero/slides/#fundamentals-of-big-data-software-and-hardware-technologies-madmbdmbda">Fundamentals of Big Data Software and Hardware Technologies</a></li>
-      </ul></td>
-  </tr>
-  <tr>
-      <td>Ingeniería Informática</td>
-      <td><ul>
-        <li> <a href="https://github.com/acaldero/slides/#desarrollo-de-aplicaciones-distribuidas-ii">Desarrollo de Aplicaciones Distribuidas</a></li>
-      </ul></td>
+      <td> :file_folder: Ingeniería Informática</td>
+      <td> :books: <a href="https://github.com/acaldero/slides/#desarrollo-de-aplicaciones-distribuidas-ii">Desarrollo de Aplicaciones Distribuidas</a></td>
   </tr>
  </table>
  </small>
