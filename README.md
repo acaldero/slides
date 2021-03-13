@@ -1,18 +1,42 @@
 # Materiales ARCOS.INF.UC3M.ES [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 
 
 ## Tabla de contenidos
-  * Grado Ingeniería Informática
-    * [Sistemas Operativos (2020-2021)](#sistemas-operativos-2020-2021)
-    * [Estructura de Computadores (2020-2021)](#estructura-de-computadores-2020-2021)
-    * [Diseño de Sistemas Operativos](#diseño-de-sistemas-operativos-2019-2020)
-    * [Operating System Design](#operating-system-design-2019-2020)
-    * [Sistemas Operativos](#sistemas-operativos)
-  * MCYTI
-    * [Diseño de sistemas distribuidos](#diseño-de-sistemas-distribuidos-mcyti)
-  * MADMBD/MBDA
-    * [Fundamentals of Big Data Software and Hardware Technologies](#fundamentals-of-big-data-software-and-hardware-technologies-madmbdmbda)
-  * II
-    * [Desarrollo de Aplicaciones Distribuidas](#desarrollo-de-aplicaciones-distribuidas-ii)
+
+<html>
+ <small>
+ <table>
+  <tr><th>Titulación</th><th>Asignatura</th></tr>
+  <tr>
+      <td>Grado en Ingeniería Informática</td>
+      <td><ul>
+        <li> <a href="https://github.com/acaldero/slides/blob/main/README.md#sistemas-operativos-2020-2021">Sistemas Operativos (2020-2021)</a></li>
+        <li> <a href="https://github.com/acaldero/slides/#estructura-de-computadores-2020-2021">Estructura de Computadores (2020-2021)</a></li>
+        <li> <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-operativos-2019-2020">Diseño de Sistemas Operativos</a></li>
+        <li> <a href="https://github.com/acaldero/slides/#operating-system-design-2019-2020">Operating System Design</a></li>
+        <li> <a href="https://github.com/acaldero/slides/#sistemas-operativos">Sistemas Operativos</a></li>
+      </ul></td>
+  </tr>
+  <tr>
+      <td>Máster Universitario en Ciencia y Tecnología Informática</td>
+      <td><ul>
+        <li> <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-distribuidos-mcyti">Diseño de sistemas distribuidos</a></li>
+      </ul></td>
+  </tr>
+  <tr>
+      <td>Master in Big Data Analytics</td>
+      <td><ul>
+        <li> <a href="https://github.com/acaldero/slides/#fundamentals-of-big-data-software-and-hardware-technologies-madmbdmbda">Fundamentals of Big Data Software and Hardware Technologies</a></li>
+      </ul></td>
+  </tr>
+  <tr>
+      <td>Ingeniería Informática</td>
+      <td><ul>
+        <li> <a href="https://github.com/acaldero/slides/#desarrollo-de-aplicaciones-distribuidas-ii">Desarrollo de Aplicaciones Distribuidas</a></li>
+      </ul></td>
+  </tr>
+ </table>
+ </small>
+</html>
 
 
 ## Asignaturas
