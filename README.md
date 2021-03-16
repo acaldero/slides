@@ -115,7 +115,8 @@
   <tr><td>7</td>
       <td>Comunicación entre procesos</td>
       <td><ul>
-        <li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7a-senyales.pdf">clase_w7a-senyales.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7b-pipes.pdf">clase_w7b-pipes.pdf</a>
       </ul></td>
       <td><ul type="1">
         <li>
