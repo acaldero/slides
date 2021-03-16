@@ -100,6 +100,7 @@
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w5-planificacion.pdf">clase_w5-planificacion.pdf</a>
       </ul></td>
       <td><ul type="1">
+        <li><a href="https://youtu.be/VK7l4VXlJss">Introducción a la planificación</a>
         <li><a href="https://youtu.be/jeENw9W2qs8">Principales planificadores</a>
       </ul></td>
   </tr>
