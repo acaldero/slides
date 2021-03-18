@@ -359,42 +359,42 @@
    <tr>
     <td>2 y 4</td><td>Introducción al entorno de trabajo</td>
     <td><ul type="1">
-      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-lenguajec-v1c.pdf">clase_02-lenguajec-v1c.pdf</a>     
-      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_02-linux-v1d.pdf">clase_02-linux-v1d.pdf</a>            
-      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-depuracion-v1d.pdf">clase_04-depuracion-v1d.pdf</a>  
-      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-linux-v1d.pdf">clase_04-linux-v1d.pdf</a>
-      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_cfaqs-v1a.pdf">clase_cfaqs-v1a.pdf</a>
-      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_04-lenguajec-v1d.pdf">clase_04-lenguajec-v1d.pdf</a>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_02-lenguajec-v1c.pdf">clase_02-lenguajec-v1c.pdf</a>     
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_02-linux-v1d.pdf">clase_02-linux-v1d.pdf</a>            
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_04-depuracion-v1d.pdf">clase_04-depuracion-v1d.pdf</a>  
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_04-linux-v1d.pdf">clase_04-linux-v1d.pdf</a>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_cfaqs-v1a.pdf">clase_cfaqs-v1a.pdf</a>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_04-lenguajec-v1d.pdf">clase_04-lenguajec-v1d.pdf</a>
     </ul></td>
    </tr> 
    <tr>
     <td>6</td><td>Llamadas al sistema</td>
     <td><ul type="1">
-      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-compilacion-v1e.pdf">clase_06-compilacion-v1e.pdf</a>
-      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-llsistema-v1f.pdf">clase_06-llsistema-v1f.pdf</a>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_06-compilacion-v1e.pdf">clase_06-compilacion-v1e.pdf</a>
+      <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_06-llsistema-v1f.pdf">clase_06-llsistema-v1f.pdf</a>
     </ul></td>
    </tr>
    <tr>
     <td>10</td><td>Procesos</td>
     <td><ul type="1">
-     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_10-v1c.pdf">clase_10-v1c.pdf</a>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_10-v1c.pdf">clase_10-v1c.pdf</a>
     </ul></td>
    </tr> 
    <tr>
     <td>12</td><td>Tuberías</td>
     <td><ul type="1">
-     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_12-pipes-v1c.pdf">clase_12-pipes-v1c.pdf</a>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_12-pipes-v1c.pdf">clase_12-pipes-v1c.pdf</a>
     </ul></td>
    </tr> 
    <tr><td>26</td><td>Shell-scripts</td>
     <td><ul type="1">
-     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_13-v1c.pdf">clase_13-v1c.pdf</a>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_13-v1c.pdf">clase_13-v1c.pdf</a>
     </ul></td>
    </tr> 
    <tr><td>23,25,27 y 28</td><td>Sistema de ficheros</td>
     <td><ul type="1">
-     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_06-sf-v2c.pdf">clase_06-sf-v2c.pdf</a>
-     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_28-mv_v2b.pdf">clase_28-mv_v2b.pdf</a>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_06-sf-v2c.pdf">clase_06-sf-v2c.pdf</a>
+     <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos_labs/clase_28-mv_v2b.pdf">clase_28-mv_v2b.pdf</a>
     </ul></td>
    </tr> 
    <tbody>
