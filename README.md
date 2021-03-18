@@ -110,7 +110,8 @@
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6-hilos.pdf">clase_w6-hilos.pdf</a>
       </ul></td>
       <td><ul type="1">
-        <li>
+        <li><a href="https://youtu.be/n5qrEotEWfI">Introducción a hilos</a>
+        <li><a href="https://youtu.be/LXCeBZ4Cepg">Implementaciones y modelo de hilos</a>
       </ul></td>
   </tr>
   <tr><td>7</td>
