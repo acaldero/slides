@@ -76,52 +76,52 @@
   <tr><td>3</td>
       <td>Servicios del Sistema Operativo </td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso.pdf">clase_w3-serviciosdelso.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso.pdf">clase_w3-serviciosdelso.pdf</a></li>
       </ul></td>
       <td><ul type="1">
-        <li><a href="https://www.youtube.com/watch?v=Y7cSl5W8RGY">Mecanismo de invocación de una llamada al sistema</a>
-        <li><a href="https://www.youtube.com/watch?v=lS1MtuXaKUI">Servicios para ficheros y directorios</a>
-        <li><a href="https://www.youtube.com/watch?v=xiTzcWiJcOM">Servicios para gestión de procesos</a>
+        <li><a href="https://www.youtube.com/watch?v=Y7cSl5W8RGY">Mecanismo de invocación de una llamada al sistema</a></li>
+        <li><a href="https://www.youtube.com/watch?v=lS1MtuXaKUI">Servicios para ficheros y directorios</a></li>
+        <li><a href="https://www.youtube.com/watch?v=xiTzcWiJcOM">Servicios para gestión de procesos</a></li>
       </ul></td>
   </tr>
   <tr><td>4</td>
       <td>Introducción a la gestión de procesos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf">clase_w4-procesos.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf">clase_w4-procesos.pdf</a></li>
       </ul></td>
       <td><ul type="1">
-        <li><a href="https://youtu.be/2u4T_dclx58">Introducción a procesos y su modelo</a>
-        <li><a href="https://youtu.be/yt6B38gDEwQ">Ciclo de vida: estados de un proceso</a>
+        <li><a href="https://youtu.be/2u4T_dclx58">Introducción a procesos y su modelo</a></li>
+        <li><a href="https://youtu.be/yt6B38gDEwQ">Ciclo de vida: estados de un proceso</a></li>
       </ul></td>
   </tr>
   <tr><td>5</td>
       <td>Planificación de procesos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w5-planificacion.pdf">clase_w5-planificacion.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w5-planificacion.pdf">clase_w5-planificacion.pdf</a></li>
       </ul></td>
       <td><ul type="1">
-        <li><a href="https://youtu.be/VK7l4VXlJss">Introducción a la planificación</a>
-        <li><a href="https://youtu.be/jeENw9W2qs8">Principales planificadores</a>
+        <li><a href="https://youtu.be/VK7l4VXlJss">Introducción a la planificación</a></li>
+        <li><a href="https://youtu.be/jeENw9W2qs8">Principales planificadores</a></li>
       </ul></td>
   </tr>
   <tr><td>6</td>
       <td>Procesos e hilos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6-hilos.pdf">clase_w6-hilos.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6-hilos.pdf">clase_w6-hilos.pdf</a></li>
       </ul></td>
       <td><ul type="1">
-        <li><a href="https://youtu.be/n5qrEotEWfI">Introducción a hilos</a>
-        <li><a href="https://youtu.be/LXCeBZ4Cepg">Implementaciones y modelo de hilos</a>
+        <li><a href="https://youtu.be/n5qrEotEWfI">Introducción a hilos</a></li>
+        <li><a href="https://youtu.be/LXCeBZ4Cepg">Implementaciones y modelo de hilos</a></li>
       </ul></td>
   </tr>
   <tr><td>7</td>
       <td>Comunicación entre procesos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7a-senyales.pdf">clase_w7a-senyales.pdf</a>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7b-pipes.pdf">clase_w7b-pipes.pdf</a>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7a-senyales.pdf">clase_w7a-senyales.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7b-pipes.pdf">clase_w7b-pipes.pdf</a> </li>
       </ul></td>
       <td><ul type="1">
-        <li>
+        <li>...</li>
       </ul></td>
   </tr>
  </table>
