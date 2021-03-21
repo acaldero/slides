@@ -112,6 +112,7 @@
       <td><ul type="1">
         <li><a href="https://youtu.be/n5qrEotEWfI">Introducción a hilos</a></li>
         <li><a href="https://youtu.be/LXCeBZ4Cepg">Implementaciones y modelo de hilos</a></li>
+        <li><a href="https://youtu.be/akf9UG7Z5Go">Principales servicios de hilos</a></li>
       </ul></td>
   </tr>
   <tr><td>7</td>
