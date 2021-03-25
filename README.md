@@ -122,7 +122,8 @@
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7b-pipes.pdf">clase_w7b-pipes.pdf</a> </li>
       </ul></td>
       <td><ul type="1">
-        <li>...</li>
+        <li><a href="https://youtu.be/FCLsR5bZVO8">Señales en Unix/Linux</a></li>
+        <li><a href="https://youtu.be/dOe3uhMYhG4">Entorno de un proceso</a></li>
       </ul></td>
   </tr>
  </table>
