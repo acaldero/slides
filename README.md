@@ -126,6 +126,15 @@
         <li><a href="https://youtu.be/dOe3uhMYhG4">Entorno de un proceso</a></li>
       </ul></td>
   </tr>
+  <tr><td>8</td>
+      <td>Gestión de memoria</td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w8-memoria.pdf">clase_w8-memoria.pdf</a> </li>
+      </ul></td>
+      <td><ul type="1">
+        <li></li>
+      </ul></td>
+  </tr>
  </table>
  </small>
 </html>
