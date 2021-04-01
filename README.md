@@ -125,6 +125,8 @@
         <li><a href="https://youtu.be/FCLsR5bZVO8">Señales en Unix/Linux</a></li>
         <li><a href="https://youtu.be/dOe3uhMYhG4">Entorno de un proceso</a></li>
         <li><a href="https://youtu.be/pJ7yiWzp-wg">Descriptores de fichero</a></li>
+        <li><a href="https://youtu.be/Lg5XbKBLafk">Tuberías o Pipes</a></li>
+        <li><a href="https://youtu.be/1nhdjoiNpEE">Ejemplos de uso de pipes</a></li>
       </ul></td>
   </tr>
   <tr><td>8</td>
