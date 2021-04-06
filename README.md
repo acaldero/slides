@@ -138,6 +138,16 @@
         <li></li>
       </ul></td>
   </tr>
+  <tr><td>9</td>
+      <td>Concurrencia</td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w10-concurrencia-servicios.pdf">clase_w10-concurrencia-servicios.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w11-concurrencia-servidores.pdf">clase_w11-concurrencia-servidores.pdf</a> </li>
+      </ul></td>
+      <td><ul type="1">
+        <li></li>
+      </ul></td>
+  </tr>
  </table>
  </small>
 </html>
