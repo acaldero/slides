@@ -135,7 +135,8 @@
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w8-memoria.pdf">clase_w8-memoria.pdf</a> </li>
       </ul></td>
       <td><ul type="1">
-        <li></li>
+        <li><a href="https://youtu.be/DhrlxvmfrFE">Introducción: programa, proceso, imagen de memoria y entorno multiproceso</a></li>
+        <li><a href="https://youtu.be/fVUL7Q6uBKQ">Introducción: regiones de memoria</a></li>
       </ul></td>
   </tr>
   <tr><td>9</td>
