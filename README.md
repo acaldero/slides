@@ -152,6 +152,7 @@
       <ul type="1">
         <li><a href="https://youtu.be/DhrlxvmfrFE">Introducción: programa, proceso, imagen de memoria y entorno multiproceso</a></li>
         <li><a href="https://youtu.be/fVUL7Q6uBKQ">Introducción: regiones de memoria</a></li>
+        <li><a href="https://youtu.be/1kPHaUTP-3o">Memoria virtual</a></li>
       </ul>
       </td>
   </tr>
