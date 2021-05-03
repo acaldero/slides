@@ -166,6 +166,19 @@
       <td>
       <ul type="1">
         <li><a href="https://youtu.be/PxjgVYgpGkk">Introducción</a></li>
+        <li><a href="https://youtu.be/EupaagvNpR0">Mecanismos sincronización POSIX</a></li>
+        <li><a href="https://youtu.be/nDyYrpFYG-4">Servidores concurrentes</a></li>
+      </ul>
+      </td>
+  </tr>
+  <tr><td>10</td>
+      <td>Sistema de ficheros</td>
+      <td><ul>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w12-sf-ficheros.pdf">clase_w12-sf-ficheros.pdf</a> </li>
+      </ul></td>
+      <td>
+      <ul type="1">
+        <li></li>
       </ul>
       </td>
   </tr>
