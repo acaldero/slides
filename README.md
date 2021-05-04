@@ -175,6 +175,7 @@
       <td>Sistema de ficheros</td>
       <td><ul>
         <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w12-sf-ficheros.pdf">clase_w12-sf-ficheros.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w13-sf-directorios.pdf">clase_w13-sf-directorios.pdf</a> </li>
       </ul></td>
       <td>
       <ul type="1">
