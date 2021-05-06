@@ -25,7 +25,10 @@
 #include <semaphore.h>
 
 const int MAX_PETICIONES = 5;
-sem_t snhijos;
+
+pthread_mutex_t mutex;
+pthread_cond_t  copied;
+int             is_copied;
 
 void * servicio ( void * p )
 {
@@ -33,11 +36,16 @@ void * servicio ( void * p )
 
       // copy parameters...
       memmove(&pet,(peticion_t*)p, sizeof(peticion_t));
-      // TODO: signal thread receptor that p was copied
 
+      // signal data is copied
+      pthread_mutex_lock(&mutex) ;
+      is_copied = 1 ;
+      pthread_cond_signal(&copied) ;
+      pthread_mutex_unlock(&mutex) ;
+
+      // process and response
       fprintf(stderr, "Iniciando servicio\n");
       responder_peticion(&pet);
-      sem_post(&snhijos);
 
       fprintf(stderr, "Terminando servicio\n");
       pthread_exit(0);
@@ -46,30 +54,33 @@ void * servicio ( void * p )
 
 void * receptor ( void * param )
 {
-     int nservicio = 0;
      int i;
      peticion_t  p;
-     pthread_t   th_hijo;
+     pthread_t   th_hijo[MAX_PETICIONES];
 
      // for each request, a new thread...
      for (i=0; i<MAX_PETICIONES; i++)
      {
+	  // receive request and new thread treat it
           recibir_peticion(&p);
-          nservicio++;
-          pthread_create(&th_hijo, NULL, servicio, &p);
-          // TODO: wait for thread servicio can copy p
+          pthread_create(&(th_hijo[i]), NULL, servicio, &p);
+
+          // wait data is copied
+          pthread_mutex_lock(&mutex) ;
+	  while (!is_copied) {
+                 pthread_cond_wait(&copied, &mutex) ;
+	  }
+          is_copied = 0 ;
+          pthread_mutex_unlock(&mutex) ;
      }
 
      // wait for each thread ends
-     for (i=0; i<nservicio; i++)
-     {
-          fprintf(stderr, "Haciendo wait\n");
-          sem_wait(&snhijos);    
-          fprintf(stderr, "Saliendo de wait\n");
-    }
+     for (i=0; i<MAX_PETICIONES; i++) {
+	  pthread_join(th_hijo[i], NULL) ;
+     }
 
-    pthread_exit(0);
-    return NULL;
+     pthread_exit(0);
+     return NULL;
 }
 
 int main ( int argc, char *argv[] ) 
@@ -77,9 +88,6 @@ int main ( int argc, char *argv[] )
     struct timeval timenow;
     long t1, t2;
     pthread_t thr;
-
-    // inicializar
-    sem_init(&snhijos, 0, 0);
 
     // t1
     gettimeofday(&timenow, NULL) ;
@@ -92,9 +100,6 @@ int main ( int argc, char *argv[] )
     // t2
     gettimeofday(&timenow, NULL) ;
     t2 = (long)timenow.tv_sec * 1000 + (long)timenow.tv_usec / 1000 ;
-
-    // finalizar
-    sem_destroy(&snhijos);
 
     // imprimir t2-t1...
     printf("Tiempo total: %lf\n", (t2-t1)/1000.0);
