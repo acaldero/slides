@@ -23,16 +23,16 @@
 #include <stdio.h>
 #include <time.h>
 #include <pthread.h>
-#include <semaphore.h>
 #include "peticion.h"
+
 
 #define MAX_BUFFER 128
 peticion_t  buffer[MAX_BUFFER];
 
+
 int  n_elementos  = 0;
-int  pos_servicio = 0;
-int  fin = 0;
 int  ha_arrancado = 0;
+int  fin = 0;
 
 pthread_mutex_t  mutex;
 pthread_cond_t   no_lleno;
@@ -46,7 +46,7 @@ const int MAX_SERVICIO   = 5;
 void * receptor ( void * param )
 {
        peticion_t p;
-       int i, pos=0;
+       int i, pos_receptor = 0;
 
        for (i=0; i<MAX_PETICIONES; i++)
        {
@@ -59,8 +59,8 @@ void * receptor ( void * param )
 	    }
 
 	    // removing element from buffer
-            buffer[pos] = p;
-            pos = (pos+1) % MAX_BUFFER;
+            buffer[pos_receptor ] = p;
+            pos_receptor = (pos_receptor +1) % MAX_BUFFER;
             n_elementos++;
 
 	    // signal not empty...
@@ -85,6 +85,7 @@ void * receptor ( void * param )
 void * servicio ( void * param )
 {
       peticion_t p;
+      int pos_servicio = 0;
 
       // signal initializate...
       pthread_mutex_lock(&mutex);
