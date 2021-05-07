@@ -51,6 +51,7 @@ void * receptor ( void * param )
        for (i=0; i<MAX_PETICIONES; i++)
        {
             recibir_peticion(&p);
+            fprintf(stderr,"receptor: recepción de petición\n");
 
 	    // lock when not full...
             pthread_mutex_lock(&mutex);
@@ -58,7 +59,7 @@ void * receptor ( void * param )
                    pthread_cond_wait(&no_lleno, &mutex);
 	    }
 
-	    // removing element from buffer
+	    // inserting element into the buffer
             buffer[pos_receptor ] = p;
             pos_receptor = (pos_receptor +1) % MAX_BUFFER;
             n_elementos++;
@@ -68,7 +69,7 @@ void * receptor ( void * param )
             pthread_mutex_unlock(&mutex);
        }
 
-       fprintf(stderr,"Finalizando receptor\n");
+       fprintf(stderr,"receptor: finalizando\n");
 
        // signal end
        pthread_mutex_lock(&mutex);
@@ -76,7 +77,7 @@ void * receptor ( void * param )
        pthread_cond_signal(&no_vacio);
        pthread_mutex_unlock(&mutex);
 
-       fprintf(stderr, "Finalizado receptor\n");
+       fprintf(stderr, "receptor: Finalizado\n");
        pthread_exit(0);
        return NULL;
 
@@ -100,7 +101,7 @@ void * servicio ( void * param )
            while (n_elementos == 0)
 	   {
                 if (fin==1) {
-                     fprintf(stderr,"Finalizando servicio\n");
+                     fprintf(stderr,"servicio: finalizando\n");
                      pthread_cond_signal(&parado);
                      pthread_mutex_unlock(&mutex);
                      pthread_exit(0);
@@ -109,7 +110,7 @@ void * servicio ( void * param )
                 pthread_cond_wait(&no_vacio, &mutex);
            } // while
 
-	   // inserting a new element...
+	   // removing element from buffer...
            p = buffer[pos_servicio];
            pos_servicio = (pos_servicio + 1) % MAX_BUFFER;
            n_elementos--;
@@ -119,7 +120,7 @@ void * servicio ( void * param )
            pthread_mutex_unlock(&mutex);
 
 	   // process and response...
-           fprintf(stderr, "Sirviendo posicion %d\n", pos_servicio);
+           fprintf(stderr, "servicio: sirviendo posicion %d\n", pos_servicio);
            responder_peticion(&p);
     }
 
