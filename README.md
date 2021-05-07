@@ -167,6 +167,7 @@
       <ul type="1">
         <li><a href="https://youtu.be/PxjgVYgpGkk">Introducción</a></li>
         <li><a href="https://youtu.be/EupaagvNpR0">Mecanismos sincronización POSIX</a></li>
+        <li><a href="https://youtu.be/8fdum4cvlvI">Ejemplo simple de productor-consumidor con mecanismos POSIX</a></li>
         <li><a href="https://youtu.be/nDyYrpFYG-4">Servidores concurrentes</a></li>
       </ul>
       </td>
@@ -180,7 +181,7 @@
       </ul></td>
       <td>
       <ul type="1">
-        <li></li>
+        <li><a href="https://youtu.be/WbL1zjTbyGU">Introducción a sistema de ficheros</a></li>
       </ul>
       </td>
   </tr>
