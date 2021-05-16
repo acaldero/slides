@@ -183,6 +183,9 @@
       <ul type="1">
         <li><a href="https://youtu.be/WbL1zjTbyGU">Introducción a sistema de ficheros</a></li>
         <li><a href="https://youtu.be/0qmmi1n15Xo">Ficheros</a></li>
+        <li><a href="https://youtu.be/HY4wniVa9bA">Directorios</a></li>
+        <li><a href="https://youtu.be/AbdEhW70Td8">Dispositivos y particiones/volúmenes</a></li>
+        <li><a href="https://youtu.be/mW-uC07BnMs">Sistema de ficheros (en disco)</a></li>
       </ul>
       </td>
   </tr>
