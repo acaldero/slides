@@ -297,38 +297,38 @@
   <tr><th>Lesson</th><th>Subject</th><th>Slides</th></tr>
   <tr><td>1</td><td>Introduction</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/osd-l1-introduction.pdf">osd-l1-introduction.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Operating_System_Design/osd-l1-introduction.pdf">osd-l1-introduction.pdf</a></li>
       </ul></td>
   </tr>
   <tr><td>2</td><td>How an Operating System works</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/osd-l2-osworking.pdf">osd-l2-osworking.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Operating_System_Design/osd-l2-osworking.pdf">osd-l2-osworking.pdf</a></li>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Process, devices, drivers, and extended services</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/osd-l3a-ppdsa_intro.pdf">osd-l3a-ppdsa_intro.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Operating_System_Design/osd-l3a-ppdsa_intro.pdf">osd-l3a-ppdsa_intro.pdf</a></li>
       </ul></td>
   </tr>
   <tr><td>4</td><td>Process management base</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/osd-l3b-ppdsa_contextswitching.pdf">osd-l3b-ppdsa_contextswitching.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Operating_System_Design/osd-l3b-ppdsa_contextswitching.pdf">osd-l3b-ppdsa_contextswitching.pdf</a></li>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Devices, drivers, and extended services</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/osd-l3c-ppdsa-drvsa.pdf">osd-l3c-ppdsa-drvsa.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Operating_System_Design/osd-l3c-ppdsa-drvsa.pdf">osd-l3c-ppdsa-drvsa.pdf</a></li>
       </ul></td>
   </tr>
   <tr><td>5</td><td>File systems</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/osd-l4-fs_design.pdf">osd-l4-fs_design.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Operating_System_Design/osd-l4-fs_design.pdf">osd-l4-fs_design.pdf</a></li>
       </ul></td>
   </tr>
   <tr><td>6</td><td>Memory management</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/osd-l5a-memory_introduction.pdf">osd-l5a-memory_introduction.pdf</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Disenyo_De_Sistemas_Operativos/osd-l5b-memory_amw.pdf">osd-l5b-memory_amw.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Operating_System_Design/osd-l5a-memory_introduction.pdf">osd-l5a-memory_introduction.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Operating_System_Design/osd-l5b-memory_amw.pdf">osd-l5b-memory_amw.pdf</a></li>
       </ul></td>
   </tr>
  </table>
