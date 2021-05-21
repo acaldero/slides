@@ -186,6 +186,8 @@
         <li><a href="https://youtu.be/HY4wniVa9bA">Directorios</a></li>
         <li><a href="https://youtu.be/AbdEhW70Td8">Dispositivos y particiones/volúmenes</a></li>
         <li><a href="https://youtu.be/mW-uC07BnMs">Sistema de ficheros (en disco)</a></li>
+        <li><a href="https://youtu.be/SQSbEwHFZRY">Software de sistema</a></li>
+        <li><a href="https://youtu.be/AYNDtt-KEdI">Sistema de ficheros (gestor)</a></li> 
       </ul>
       </td>
   </tr>
