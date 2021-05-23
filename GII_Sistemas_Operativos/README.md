@@ -106,7 +106,11 @@
 </ol>
 </td>
   <td class="align-middle">
-  <ol><li></li></ol>
+  <ul>
+  <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6/compile.sh">compile.sh</a></li>
+  <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6/ths_creatjoin.c">ths_creatjoin.c</a></li>
+  <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6/ths_creatsleep.c">ths_creatsleep.c</a></li>
+  </ul>
   </td>
  </tr>
  <tr>
@@ -197,7 +201,7 @@
 </ol>
 </td>
   <td class="align-middle">
-  <ol>
+  <ul>
   <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w11/1_sequential.c">1_sequential.c</a></li>
   <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w11/2_fork.c">2_fork.c</a></li>
   <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w11/3_threads_ondemand.c">3_threads_ondemand.c</a></li>
@@ -205,7 +209,7 @@
   <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w11/compile.sh">compile.sh</a></li>
   <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w11/peticion.c">peticion.c</a></li>
   <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w11/peticion.h">peticion.h</a></li>
-  </ol>
+  </ul>
   </td>
  </tr>
 <!--- B5 -->
