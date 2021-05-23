@@ -14,12 +14,13 @@
  <th>Lección</th>
  <th>Transparencias</th>
  <th>Videos</th>
+ <th>Ejemplos</th>
  </tr>
  </thead>
  <tbody>
 <!--- B2 -->
 <tr>
- <td rowspan="2" class="align-middle"><h6 class="my-2" style="transform(rotate(270deg));"><b>T1.- INTRODUCCIÓN A <br>LOS SISTEMAS OPERATIVOS</b></h6></td>
+ <td rowspan="2" class="align-middle"><h6 class="my-2"><b>T1.- INTRODUCCIÓN A <br>LOS SISTEMAS OPERATIVOS</b></h6></td>
  <td class="align-middle">L1.- Introducción</td>
  <td class="align-middle"><h6 class="my-0"><b><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf"><img src="https://aulaglobal.uc3m.es/theme/image.php/boost/core/1614226998/f/pdf-24" class="iconlarge activityicon" alt="Icono PDF" role="presentation">&nbsp;<u>Introducción</u></a></b></h6></td>
   <td class="align-middle">
@@ -36,6 +37,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=f8XmDLx_gqE&amp;feature=related" target="_blank">Arranque del sistema operativo</a></li>
 </ol>
   </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
  <tr>
  <td class="align-middle">L2.- Llamadas al sistema</td>
@@ -50,6 +54,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=xiTzcWiJcOM&amp;feature=related" target="_blank">Trabajando con procesos</a></li>
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
 <!--- B2 -->
 <tr class="m-2 p-2">
@@ -64,6 +71,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=yt6B38gDEwQ&amp;feature=related" target="_blank">Ciclo de vida: estados del proceso </a></li>
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
  <tr>
  <td class="align-middle">L4.- Planificación de Procesos y threads</td>
@@ -78,6 +88,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=jeENw9W2qs8&amp;feature=related" target="_blank">Planificación<br></a></li>
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
  <tr>
  <td class="align-middle">L5.- Procesos y e hilos (threads)</td>
@@ -92,6 +105,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=akf9UG7Z5Go&amp;feature=related" target="_blank">Servicios de hilos en el sistema operativo</a></li> 
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
  <tr>
  <td class="align-middle">L6.- Comunicación entre procesos</td>
@@ -113,6 +129,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=1nhdjoiNpEE&amp;feature=related" target="_blank">Ejemplos de uso de pipes </a></li>
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
 <!--- B3 -->
  <tr>
@@ -129,6 +148,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=1kPHaUTP-3o&amp;feature=related" target="_blank">Memoria virtual<br></a></li> 
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
 <!--- B4 -->
  <tr>
@@ -144,6 +166,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=Bg3pLmXbAWk&amp;feature=related" target="_blank">Mecanismos de sincronización y <br>problemas clásicos de concurrencia <br></a></li> 
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
  <tr>
  <td>L9.- Mecanismos de sincronización
@@ -157,6 +182,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=8fdum4cvlvI&amp;feature=related" target="_blank">Ejemplo simple de Prod.-Cons. <br></a></li> 
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
  <tr>
  <td>L10.- Servidores Concurrentes
@@ -168,6 +196,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=nDyYrpFYG-4&amp;feature=related" target="_blank">Servidores concurrentes<br></a></li> 
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
  </tr>
 <!--- B5 -->
  <tr>
@@ -182,6 +213,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=0qmmi1n15Xo&amp;feature=related" target="_blank">Ficheros<br></a></li> 
 </ol>
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
 </tr>
  <tr>
  <td>L12.- Directorios</td>
@@ -197,6 +231,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=mW-uC07BnMs&amp;feature=related" target="_blank">Sistema de ficheros (disco)</a></li> 
 </ol>  
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
 </tr>
  <tr>
  <td>L13.- Sistema de ficheros<br></td>
@@ -207,6 +244,9 @@
        <a href="http://www.youtube.com/watch?embed=no&amp;v=AYNDtt-KEdI&amp;feature=related" target="_blank">Sistema de ficheros (gestor)</a></li> 
 </ol>  
 </td>
+  <td class="align-middle">
+  <ol><li></li></ol>
+  </td>
 </tr>
 </tbody>
 </table>
