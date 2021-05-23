@@ -5,7 +5,8 @@
 <html>
 <br>
 <div class="table-responsive">
-<table class="table table-bordered table-sm table-hover" border="1">
+<table class="table table-bordered table-sm table-hover"
+       style="border-collapse: collapse; border: 1px solid black;">
  <thead>
 <!--- BC -->
  <tr>
@@ -18,7 +19,7 @@
  <tbody>
 <!--- B2 -->
 <tr>
- <td rowspan="2" class="align-middle"><h6 class="my-2"><b>T1.- INTRODUCCIÓN A <br>LOS SISTEMAS OPERATIVOS</b></h6></td>
+ <td rowspan="2" class="align-middle"><h6 class="my-2" style="transform(rotate(270deg));"><b>T1.- INTRODUCCIÓN A <br>LOS SISTEMAS OPERATIVOS</b></h6></td>
  <td class="align-middle">L1.- Introducción</td>
  <td class="align-middle"><h6 class="my-0"><b><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf"><img src="https://aulaglobal.uc3m.es/theme/image.php/boost/core/1614226998/f/pdf-24" class="iconlarge activityicon" alt="Icono PDF" role="presentation">&nbsp;<u>Introducción</u></a></b></h6></td>
   <td class="align-middle">
@@ -193,7 +194,7 @@
 <li><img src="https://aulaglobal.uc3m.es/theme/image.php/boost/url/1615523185/icon" class="iconlarge activityicon" alt="icono enlace" role="presentation">
        <a href="http://www.youtube.com/watch?embed=no&amp;v=AbdEhW70Td8&amp;feature=related" target="_blank">Dispositivos y particiones/volúmenes<br></a></li> 
 <li><img src="https://aulaglobal.uc3m.es/theme/image.php/boost/url/1615523185/icon" class="iconlarge activityicon" alt="icono enlace" role="presentation">
-       <a href="http://www.youtube.com/watch?embed=no&amp;v=mW-uC07BnMs&amp;feature=related" target="_blank">Sistema de ficheros (disco) 🆕</a></li> 
+       <a href="http://www.youtube.com/watch?embed=no&amp;v=mW-uC07BnMs&amp;feature=related" target="_blank">Sistema de ficheros (disco)</a></li> 
 </ol>  
 </td>
 </tr>
@@ -203,7 +204,7 @@
  <td class="align-middle">
 <ol>
 <li><img src="https://aulaglobal.uc3m.es/theme/image.php/boost/url/1615523185/icon" class="iconlarge activityicon" alt="icono enlace" role="presentation">
-       <a href="http://www.youtube.com/watch?embed=no&amp;v=AYNDtt-KEdI&amp;feature=related" target="_blank">Sistema de ficheros (gestor) 🆕</a></li> 
+       <a href="http://www.youtube.com/watch?embed=no&amp;v=AYNDtt-KEdI&amp;feature=related" target="_blank">Sistema de ficheros (gestor)</a></li> 
 </ol>  
 </td>
 </tr>
