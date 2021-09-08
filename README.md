@@ -7,9 +7,10 @@
  <table>
   <tr><th>:file_folder: Titulación</th><th>:books: Asignatura</th></tr>
   <tr>
-      <td rowspan="5"> :white_circle: Grado en Ingeniería Informática</td>
-      <td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#sistemas-operativos-2020-2021">Sistemas Operativos (2020-2021)</a></td>
+      <td rowspan="6"> :white_circle: Grado en Ingeniería Informática</td>
+      <td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#computer-structure-2021-2022">Computer Structure (2021-2022)</a></td>
   </tr>
+  <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#sistemas-operativos-2020-2021">Sistemas Operativos (2020-2021)</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#estructura-de-computadores-2020-2021">Estructura de Computadores (2020-2021)</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-operativos-2019-2020">Diseño de Sistemas Operativos</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#operating-system-design-2019-2020">Operating System Design</a></td></tr>
@@ -32,6 +33,52 @@
 
 
 ## Asignaturas
+
+### Computer Structure (2021-2022)
+
+<html>
+ <small>
+ <table style="width:100%;" width="100%">
+  <tr><th>Lesson</th><th>Subject</th><th>Slides</th></tr>
+  <tr><td>1</td><td>Introduction</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t1-introduction-v1a.pdf">t1-introduction-v1a</a> </li>
+      </ul></td>
+  </tr>
+  <tr><td>2</td><td>Representation of information</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-v2a.pdf">t2-representation-v2a</a></li>
+      </ul></td>
+  </tr>
+  <tr><td>3</td><td>Fundamentals of assembler programming</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v1a.pdf">t3-assembly_1-v1a</a></li>
+        <li> Work in progress...</li>
+        <li> Work in progress...</li>
+      </ul></td>
+  </tr>
+  <tr><td>4</td><td>The processor</td>
+      <td><ul type="1">
+        <li> Work in progress...</li>
+        <li> Work in progress...</li>
+      </ul></td>
+  </tr>
+  <tr><td>5</td><td>Memory hierarchy</td>
+      <td><ul type="1">
+        <li> Work in progress...</li>
+        <li> Work in progress...</li>
+        <li> Work in progress...</li>
+      </ul></td>
+  </tr>
+  <tr><td>6</td><td>I/O techniques and peripheral devices</td>
+      <td><ul type="1">
+        <li> Work in progress...</li>
+      </ul></td>
+  </tr>
+ </table>
+ </small>
+</html>
+
 
 ### Sistemas Operativos (2020-2021)
 
@@ -197,6 +244,7 @@
 
 
 ### Estructura de Computadores (2020-2021)
+
 <html>
  <small>
  <table style="width:100%;" width="100%">
