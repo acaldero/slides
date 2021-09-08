@@ -42,17 +42,18 @@
   <tr><th>Lesson</th><th>Subject</th><th>Slides</th></tr>
   <tr><td>1</td><td>Introduction</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t1-introduction-v1a.pdf">t1-introduction-v1a</a> </li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t1-introduccion-v1a.pdf">Introduction (v1a)</a> </li>
       </ul></td>
   </tr>
   <tr><td>2</td><td>Representation of information</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-v2a.pdf">t2-representation-v2a</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-1-v2.pdf">Representation 1/2 (v2a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-2-v2a.pdf">Representation 2/2 (v2a)</a></li>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Fundamentals of assembler programming</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v1a.pdf">t3-assembly_1-v1a</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-ensamblador_1-v1a.pdf">Assembly 1/4 (v1a)</a></li>
         <li> Work in progress...</li>
         <li> Work in progress...</li>
       </ul></td>
