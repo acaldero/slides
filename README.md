@@ -47,7 +47,7 @@
   </tr>
   <tr><td>2</td><td>Representation of information</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-1-v2.pdf">Representation 1/2 (v2a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-1-v2a.pdf">Representation 1/2 (v2a)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-2-v2a.pdf">Representation 2/2 (v2a)</a></li>
       </ul></td>
   </tr>
