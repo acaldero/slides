@@ -54,8 +54,8 @@
   <tr><td>3</td><td>Fundamentals of assembler programming</td>
       <td><ul type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v1b.pdf">Assembly 1/4 (v1b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/T3-assembly_2-v2a.pdf">Assembly 2/4 (v2a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/T3-assembly_3-v1a.pdf">Assembly 3/4 (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_2-v2a.pdf">Assembly 2/4 (v2a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_3-v1a.pdf">Assembly 3/4 (v1a)</a></li>
         <li> Work in progress...</li>
       </ul></td>
   </tr>
