@@ -61,7 +61,7 @@
   </tr>
   <tr><td>4</td><td>The processor</td>
       <td><ul type="1">
-        <li> Work in progress...</li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1a">Processor 1/2 (v1a)</a></li>
         <li> Work in progress...</li>
       </ul></td>
   </tr>
