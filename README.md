@@ -47,13 +47,13 @@
   </tr>
   <tr><td>2</td><td>Representation of information</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-1-v2b.pdf">Representation 1/2 (v2a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-1-v2b.pdf">Representation 1/2 (v2b)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-2-v2a.pdf">Representation 2/2 (v2a)</a></li>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Fundamentals of assembler programming</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v2a.pdf">Assembly 1/4 (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v2a.pdf">Assembly 1/4 (v2a)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_2-v2a.pdf">Assembly 2/4 (v2a)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_3-v1a.pdf">Assembly 3/4 (v1a)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_4-v1b.pdf">Assembly 4/4 (v1b)</a></li>
@@ -62,7 +62,7 @@
   <tr><td>4</td><td>The processor</td>
       <td><ul type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1a.pdf">Processor 1/2 (v1a)</a></li>
-        <li> Work in progress...</li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_2-v1a.pdf">Processor 2/2 (v1a)</a></li>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Memory hierarchy</td>
