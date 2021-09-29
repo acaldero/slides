@@ -67,8 +67,8 @@
   </tr>
   <tr><td>5</td><td>Memory hierarchy</td>
       <td><ul type="1">
-        <li> Work in progress...</li>
-        <li> Work in progress...</li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_1-v1a.pdf">Memory 1/3 (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_2-v1b.pdf">Memory 2/3 (v1b)</a></li>
         <li> Work in progress...</li>
       </ul></td>
   </tr>
