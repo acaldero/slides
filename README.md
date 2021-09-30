@@ -74,7 +74,7 @@
   </tr>
   <tr><td>6</td><td>I/O techniques and peripheral devices</td>
       <td><ul type="1">
-        <li> Work in progress...</li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t6-io-v1a.pdf">I/O system (v1a)</a></li>
       </ul></td>
   </tr>
  </table>
