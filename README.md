@@ -61,8 +61,9 @@
   </tr>
   <tr><td>4</td><td>The processor</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1a.pdf">Processor 1/2 (v1a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_2-v1a.pdf">Processor 2/2 (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1b.pdf">Processor 1/3 (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_2-v1a.pdf">Processor 2/3 (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_3-v1a.pdf">Processor 3/3 (v1a)</a></li>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Memory hierarchy</td>
