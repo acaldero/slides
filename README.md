@@ -55,7 +55,7 @@
       <td><ul type="1">
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v2a.pdf">Assembly 1/4 (v2a)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_2-v2b.pdf">Assembly 2/4 (v2b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_3-v1a.pdf">Assembly 3/4 (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_3-v1b.pdf">Assembly 3/4 (v1a)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_4-v1b.pdf">Assembly 4/4 (v1b)</a></li>
       </ul></td>
   </tr>
