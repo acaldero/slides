@@ -47,30 +47,30 @@
   </tr>
   <tr><td>2</td><td>Representation of information</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-1-v2b.pdf">Representation 1/2 (v2b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-2-v2a.pdf">Representation 2/2 (v2a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-1-v2b.pdf">Representation 1/2: (Alpha)Numerical representations (v2b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-2-v2a.pdf">Representation 2/2: Floating-point representation (v2a)</a></li>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Fundamentals of assembler programming</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v2a.pdf">Assembly 1/4 (v2a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_2-v2b.pdf">Assembly 2/4 (v2b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_3-v1b.pdf">Assembly 3/4 (v1a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_4-v1b.pdf">Assembly 4/4 (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v2a.pdf">Assembly 1/4: Introduction to MIPS32 assembly programming (v2a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_2-v2b.pdf">Assembly 2/4: MIPS32 memory model (v2b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_3-v1b.pdf">Assembly 3/4: Instruction format and address modes (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_4-v1b.pdf">Assembly 4/4: Functions calls and the stack (v1b)</a></li>
       </ul></td>
   </tr>
   <tr><td>4</td><td>The processor</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1b.pdf">Processor 1/3 (v1b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_2-v1a.pdf">Processor 2/3 (v1a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_3-v1a.pdf">Processor 3/3 (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1b.pdf">Processor 1/3: Computer structure and elemental operations (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_2-v1a.pdf">Processor 2/3: Control Unit Design (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_3-v1a.pdf">Processor 3/3: Interruptions, booting and processor state (v1a)</a></li>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Memory hierarchy</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_1-v1a.pdf">Memory 1/3 (v1a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_2-v1b.pdf">Memory 2/3 (v1b)</a></li>
-        <li> Work in progress...</li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_1-v1a.pdf">Memory 1/3: Memory hierarchy (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_2-v1b.pdf">Memory 2/3: Cache memory (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_3-v1a.pdf">Memory 3/3: Virtual Memory (v1a)</a></li>
       </ul></td>
   </tr>
   <tr><td>6</td><td>I/O techniques and peripheral devices</td>
