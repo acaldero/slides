@@ -61,7 +61,7 @@
   </tr>
   <tr><td>4</td><td>The processor</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1b.pdf">1/3: Computer structure and elemental operations (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1c.pdf">1/3: Computer structure and elemental operations (v1c)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_2-v1a.pdf">2/3: Control Unit Design (v1a)</a></li>
         <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_3-v1a.pdf">3/3: Interruptions, booting and processor state (v1a)</a></li>
       </ul></td>
