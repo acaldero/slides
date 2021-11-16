@@ -397,17 +397,23 @@
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>2</td><td>Sistemas de altas prestaciones en entornos distribuidos</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v10a.pdf">sistemas-de-altas-prestaciones-en-entornos-distribuidos-v9a</a></li>
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v10a.pdf">sistemas-de-altas-prestaciones-en-entornos-distribuidos-v10a</a></li>
        </ul></td>
   </tr>
   <tr><td>3</td><td>Sistemas de almacenamiento escalables</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-v5d.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-v4c</a></li>
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-v5d.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-v5d</a></li>
         <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-hadoop-v4b.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-hadoop-v4b</a></li>
-        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-spark-v3e.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-spark-v3b</a></li>
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-spark-v3e.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-spark-v3e</a></li>
       </ul></td>
   </tr>
- </table>
+  <tr><td>4</td><td>Tolerancia a fallos</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/
+mcti-dsd-tf-v3c.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-tolerancia-a-fallos-v3c</a></li>
+      </ul></td>
+  </tr>
+  </table>
  </small>
 </html>
 
