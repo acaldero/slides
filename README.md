@@ -551,3 +551,30 @@ mcti-dsd-tf-v3c.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-tolera
   </table>
   </small> 
 </html>
+
+### Arquitectura de Computadores
+
+<html>
+  <small>
+  <table>
+   <thead>
+     <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
+   </thead>
+   <tbody>
+   <tr>
+    <td>12</td><td>Modelos de consistencia</td>
+    <td><ul type="1">
+     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-modelos_consistencia-v2.pdf">gii-ac-modelos_consistencia-v2.pdf</a></li>
+    </ul></td>
+   </tr> 
+   <tr>
+    <td>10</td><td>At&oacute;micos y consistencia de memoria con C++</td>
+    <td><ul type="1">
+     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-consistencia_en_cpp-v2.pdf">gii-ac-consistencia_en_cpp-v2.pdf</a></li>
+    </ul></td>
+   </tr> 
+   <tbody>
+  </table>
+  </small> 
+</html>
+
