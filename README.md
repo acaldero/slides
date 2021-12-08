@@ -75,7 +75,7 @@
   </tr>
   <tr><td>6</td><td>I/O techniques and peripheral devices</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t6-io-v1b.pdf">I/O system (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t6-io-v1c.pdf">I/O system (v1c)</a></li>
       </ul></td>
   </tr>
  </table>
@@ -564,13 +564,37 @@ mcti-dsd-tf-v3c.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-tolera
    <tr>
     <td>12</td><td>Modelos de consistencia</td>
     <td><ul type="1">
-     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-modelos_consistencia-v2.pdf">gii-ac-modelos_consistencia-v2.pdf</a></li>
+     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-modelos_consistencia-v3.pdf">gii-ac-modelos_consistencia-v3.pdf</a></li>
     </ul></td>
    </tr> 
    <tr>
     <td>10</td><td>At&oacute;micos y consistencia de memoria con C++</td>
     <td><ul type="1">
-     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-consistencia_en_cpp-v2.pdf">gii-ac-consistencia_en_cpp-v2.pdf</a></li>
+     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-consistencia_en_cpp-v3.pdf">gii-ac-consistencia_en_cpp-v3.pdf</a></li>
+    </ul></td>
+   </tr> 
+   <tr>
+    <td>10</td><td>Sincronizaci&oacute;n</td>
+    <td><ul type="1">
+     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-modelos_sincronizacion-v3.pdf">gii-ac-modelos_sincronizacion-v3.pdf</a></li>
+    </ul></td>
+   </tr> 
+   <tr>
+    <td>10</td><td>Fiabilidad</td>
+    <td><ul type="1">
+     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-fiabilidad-v3.pdf">gii-ac-fiabilidad-v3.pdf</a></li>
+    </ul></td>
+   </tr> 
+   <tr>
+    <td>10</td><td>Fiabilidad (RAID)</td>
+    <td><ul type="1">
+     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-fiabilidad-raid-v3.pdf">gii-ac-fiabilidad-raid-v3.pdf</a></li>
+    </ul></td>
+   </tr> 
+   <tr>
+    <td>10</td><td>Coherencia (directorio)</td>
+    <td><ul type="1">
+     <li> <a href="https://acaldero.github.io/slides/GII_Arquitectura_De_Computadores/gii-ac-coherencia-directorio-v2.pdf">gii-ac-coherencia-directorio-v2.pdf</a></li>
     </ul></td>
    </tr> 
    <tbody>
