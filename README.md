@@ -1,20 +1,25 @@
 ## Materiales usados en ARCOS.INF.UC3M.ES con Licencia [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 
 
-## Tabla de contenidos
+<details>
+  <summary>Contenidos/Contents (click me please)</summary>
+  
+## Tabla de contenidos (Table of Contents)
 
 <html>
  <small>
  <table>
-  <tr><th>:file_folder: Titulación</th><th>:books: Asignatura</th></tr>
+  <tr><th>:file_folder: Titulación (Qualification)</th><th>:books: Asignatura (Subject)</th></tr>
   <tr>
       <td rowspan="6"> :white_circle: Grado en Ingeniería Informática</td>
-      <td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#computer-structure-2021-2022">Computer Structure (2021-2022)</a></td>
   </tr>
+      <td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#computer-structure-RISCV">Computer Structure (RISCV)</a></td>
+      <td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#computer-structure-MIPS">Computer Structure (MIPS)</a></td>
+  <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#estructura-de-computadores-RISCV">Estructura de Computadores (RISCV)</a></td></tr>
+  <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#estructura-de-computadores-MIPS">Estructura de Computadores (MIPS)</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#sistemas-operativos-2020-2021">Sistemas Operativos (2020-2021)</a></td></tr>
-  <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#estructura-de-computadores-2020-2021">Estructura de Computadores (2020-2021)</a></td></tr>
+  <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#sistemas-operativos">Sistemas Operativos</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-operativos-2019-2020">Diseño de Sistemas Operativos</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#operating-system-design-2019-2020">Operating System Design</a></td></tr>
-  <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#sistemas-operativos">Sistemas Operativos</a></td></tr>
   <tr>
       <td> :white_circle: Máster Universitario en Ciencia y Tecnología Informática</td>
       <td> :white_medium_square: <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-distribuidos-mcyti">Diseño de sistemas distribuidos</a></td>
@@ -31,10 +36,73 @@
  </small>
 </html>
 
+</details>
 
-## Asignaturas
 
-### Computer Structure (2021-2022)
+## Asignaturas (Subject)
+
+### Computer Structure (RISC-V)
+
+<html>
+ <small>
+ <table style="width:100%;" width="100%">
+  <tr><th>Lesson</th><th>Unit</th><th>Slides</th></tr>
+
+  <tr><td>1</td><td>Course overview</td>
+      <td><ul type="0">
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t0-welcome.pdf">t0-welcome.pdf</a> </li>
+      </ul></td>
+  </tr>
+
+  <tr><td>1</td><td>Introduction to computers</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t1-introduction.pdf">t1-introduction.pdf</a> </li>
+      </ul></td>
+  </tr>
+
+  <tr><td>2</td><td>Representation</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t2-data_representation.pdf">t2-data_representation.pdf</a></li>
+      </ul></td>
+  </tr>
+
+  <tr><td>3</td><td>Assembly programming</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t3-assembly-1.pdf">t3-assembly-1.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t3-assembly-2.pdf">t3-assembly-2.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t3-assembly-3.pdf">t3-assembly-3.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t3-assembly-4.pdf">t3-assembly-4.pdf</a></li>
+      </ul></td>
+  </tr>
+
+  <tr><td>4</td><td>The processor</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t4-processor-1.pdf">t4-processor-1.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t4-processor-2.pdf">t4-processor-2.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t4-processor-3.pdf">t4-processor-3.pdf</a></li>
+      </ul></td>
+  </tr>
+
+  <tr><td>5</td><td>Memory hierarchy</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t5-memory-1.pdf">t5-memory-1.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t5-memory-2.pdf">t5-memory-2.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t5-memory-3.pdf">t5-memory-3.pdf</a></li>
+      </ul></td>
+  </tr>
+
+  <tr><td>6</td><td>I/O techniques and devices</td>
+      <td><ul type="1">
+        <li> <a href="https://acaldero.github.io/uc3m_cs/slides/t6-io.pdf">t6-io.pdf</a></li>
+      </ul></td>
+  </tr>
+
+ </table>
+ </small>
+</html>
+
+
+### Computer Structure (MIPS)
 
 <html>
  <small>
@@ -42,40 +110,40 @@
   <tr><th>Lesson</th><th>Subject</th><th>Slides</th></tr>
   <tr><td>1</td><td>Introduction</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t1-introduccion-v1a.pdf">Introduction (v1a)</a> </li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t1-introduccion-v1a.pdf">Introduction (v1a)</a> </li>
       </ul></td>
   </tr>
   <tr><td>2</td><td>Representation of information</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-1-v2b.pdf">1/2: (Alpha)Numerical representations (v2b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t2-representation-2-v2a.pdf">2/2: Floating-point representation (v2a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t2-representation-1-v2b.pdf">1/2: (Alpha)Numerical representations (v2b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t2-representation-2-v2a.pdf">2/2: Floating-point representation (v2a)</a></li>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Fundamentals of assembler programming</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_1-v2a.pdf">1/4: Introduction to MIPS32 assembly programming (v2a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_2-v2b.pdf">2/4: MIPS32 memory model (v2b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_3-v1b.pdf">3/4: Instruction format and address modes (v1b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t3-assembly_4-v1b.pdf">4/4: Functions calls and the stack (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t3-assembly_1-v2a.pdf">1/4: Introduction to MIPS32 assembly programming (v2a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t3-assembly_2-v2b.pdf">2/4: MIPS32 memory model (v2b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t3-assembly_3-v1b.pdf">3/4: Instruction format and address modes (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t3-assembly_4-v1b.pdf">4/4: Functions calls and the stack (v1b)</a></li>
       </ul></td>
   </tr>
   <tr><td>4</td><td>The processor</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_1-v1c.pdf">1/3: Computer structure and elemental operations (v1c)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_2-v1a.pdf">2/3: Control Unit Design (v1a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t4-procesador_3-v1a.pdf">3/3: Interruptions, booting and processor state (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t4-procesador_1-v1c.pdf">1/3: Computer structure and elemental operations (v1c)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t4-procesador_2-v1a.pdf">2/3: Control Unit Design (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t4-procesador_3-v1a.pdf">3/3: Interruptions, booting and processor state (v1a)</a></li>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Memory hierarchy</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_1-v1a.pdf">1/3: Memory hierarchy (v1a)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_2-v1b.pdf">2/3: Cache memory (v1b)</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t5-memory_3-v1a.pdf">3/3: Virtual Memory (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t5-memory_1-v1a.pdf">1/3: Memory hierarchy (v1a)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t5-memory_2-v1b.pdf">2/3: Cache memory (v1b)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t5-memory_3-v1a.pdf">3/3: Virtual Memory (v1a)</a></li>
       </ul></td>
   </tr>
   <tr><td>6</td><td>I/O techniques and peripheral devices</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure/t6-io-v1c.pdf">I/O system (v1c)</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Computer_Structure_MIPS/t6-io-v1c.pdf">I/O system (v1c)</a></li>
       </ul></td>
   </tr>
  </table>
@@ -246,7 +314,90 @@
 </html>
 
 
-### Estructura de Computadores (2020-2021)
+### Estructura de Computadores (RISC-V)
+
+<html>
+ <small>
+ <table style="width:100%;" width="100%">
+  <tr><th>Lección</th><th width="25%">Tema</th><th>Transparencias</th><th>Video</th></tr>
+
+  <tr><td>1</td><td>Presentación</td>
+      <td>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t0-presentacion-objetivos.pdf">t0-presentacion-objetivos.pdf</a> </li>
+      </td>
+      <td>
+      </td>
+  </tr>
+
+  <tr><td>1</td><td>Introducción a los computadores</td>
+      <td>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t1-introduccion.pdf">t1-introduccion.pdf</a> </li>
+      </td>
+      <td>
+      </td>
+  </tr>
+
+  <tr><td>2</td><td>Representación de la información</td>
+      <td>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t2-representacion.pdf">t2-representacion.pdf</a></li>
+      </td>
+      <td>
+      </td>
+  </tr>
+
+  <tr><td>3</td><td>Fundamentos de la programación en ensamblador</td>
+      <td>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t3-ensamblador-1.pdf">t3-ensamblador-1.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t3-ensamblador-2.pdf">t3-ensamblador-2.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t3-ensamblador-3.pdf">t3-ensamblador-3.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t3-ensamblador-4.pdf">t3-ensamblador-4.pdf</a></li>
+      </td>
+      <td>
+      <li><a href="https://youtu.be/6W1DJ6jqn58">(1) Registros y memoria</a></li>
+      <li><a href="https://youtu.be/ChgB-mfHLas">(2) Comentarios, directivas y llamadas al sistema</a></li>
+      <li><a href="https://youtu.be/QttD31Ak5Gw">(3) Acceso a memoria</a></li>
+      <li><a href="https://youtu.be/MG6-OMdII2U">(4) Convenio de parámetros y uso de pila</a></li>
+      </td>
+  </tr>
+
+  <tr><td>4</td><td>El procesador </td>
+      <td>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t4-procesador-1.pdf">t4-procesador-1.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t4-procesador-2.pdf">t4-procesador-2.pdf</a></li>
+      </td>
+      <td>
+      <li><a href="https://youtu.be/bg_fx1A6sCU">(1) Registros + swap R1 R2</a></li>
+      <li><a href="https://youtu.be/BiqTHzqlniw">(2) ALU + add R3 R1 R2</a></li>
+      <li><a href="https://youtu.be/LoijxR-N-40">(3) Mem. principal + lw/sw R1 dirección</a></li>
+      <li><a href="https://youtu.be/2u5aVJ3fzg4">(4) PC & IR + j/b address</a></li>
+      <li><a href="https://youtu.be/TjYkV4oX3JU">(5) SR + beq r1 r2 offset</a></li>
+      </td>
+  </tr>
+
+  <tr><td>5</td><td>Jerarquía de memoria </td>
+      <td>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t5-memoria-1-intro.pdf">t5-memoria-1-intro.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t5-memoria-2-cache.pdf">t5-memoria-2-cache.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t5-memoria-3-virtual.pdf">t5-memoria-3-virtual.pdf</a></li>
+      </td>
+      <td>
+      </td>
+  </tr>
+
+  <tr><td>6</td><td>Técnicas de E/S y dispositivos periféricos</td>
+      <td>
+        <li> <a href="https://acaldero.github.io/uc3m_ec/transparencias/t6-es.pdf">t6-es.pdf</a></li>
+      </td>
+      <td>
+      </td>
+  </tr>
+
+ </table>
+ </small>
+</html>
+
+
+### Estructura de Computadores (MIPS)
 
 <html>
  <small>
@@ -254,37 +405,37 @@
   <tr><th>Lección</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>1</td><td>Introducción a los computadores</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t1-introduccion-v3a.pdf">t1-introduccion-v3e</a> </li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t1-introduccion-v3a.pdf">t1-introduccion-v3e</a> </li>
       </ul></td>
   </tr>
   <tr><td>2</td><td>Representación de la información</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t2-representacion-v4c.pdf">t2-representacion-v4c</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t2-representacion-v4c.pdf">t2-representacion-v4c</a></li>
       </ul></td>
   </tr>
   <tr><td>3</td><td>Fundamentos de la programación en ensamblador</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-i-v1f.pdf">t3-ensamblador-i-v1f</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-ii-v1d.pdf">t3-ensamblador-ii-v1d</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t3-ensamblador-iii-v1d.pdf">t3-ensamblador-iii-v1d</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t3-ensamblador-i-v1f.pdf">t3-ensamblador-i-v1f</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t3-ensamblador-ii-v1d.pdf">t3-ensamblador-ii-v1d</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t3-ensamblador-iii-v1d.pdf">t3-ensamblador-iii-v1d</a></li>
       </ul></td>
   </tr>
   <tr><td>4</td><td>El procesador </td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-i-v3b.pdf">t4-procesador-i-v3d</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t4-procesador-ii-v3b.pdf">t4-procesador-ii-v3c</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t4-procesador-i-v3b.pdf">t4-procesador-i-v3d</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t4-procesador-ii-v3b.pdf">t4-procesador-ii-v3c</a></li>
       </ul></td>
   </tr>
   <tr><td>5</td><td>Jerarquía de memoria </td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-i-intro-v4a.pdf">t5-memoria-i-intro-v4a</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-ii-cache-v4a.pdf">t5-memoria-ii-cache-v4a</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t5-memoria-iii-virtual-v4c.pdf">t5-memoria-iii-virtual-v4c</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t5-memoria-i-intro-v4a.pdf">t5-memoria-i-intro-v4a</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t5-memoria-ii-cache-v4a.pdf">t5-memoria-ii-cache-v4a</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t5-memoria-iii-virtual-v4c.pdf">t5-memoria-iii-virtual-v4c</a></li>
       </ul></td>
   </tr>
   <tr><td>6</td><td>Técnicas de E/S y dispositivos periféricos</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores/t6-eys-v2c.pdf">t6-eys-v2c</a></li>
+        <li> <a href="https://acaldero.github.io/slides/GII_Estructura_De_Computadores_MIPS/t6-eys-v2c.pdf">t6-eys-v2c</a></li>
       </ul></td>
   </tr>
  </table>
