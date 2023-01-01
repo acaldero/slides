@@ -10,14 +10,13 @@
  <table>
   <tr><th>:file_folder: Titulación (Qualification)</th><th>:books: Asignatura (Subject)</th></tr>
   <tr>
-      <td rowspan="8"> :white_circle: Grado en Ingeniería Informática</td>
-  </tr>
+      <td rowspan="7"> :white_circle: Grado en Ingeniería Informática</td>
       <td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#computer-structure-RISCV">Computer Structure (RISCV)</a></td>
-      <td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#computer-structure-MIPS">Computer Structure (MIPS)</a></td></tr>
+  </tr>
+  <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#computer-structure-MIPS">Computer Structure (MIPS)</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#estructura-de-computadores-RISCV">Estructura de Computadores (RISCV)</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#estructura-de-computadores-MIPS">Estructura de Computadores (MIPS)</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/blob/main/README.md#sistemas-operativos-2020-2021">Sistemas Operativos (2020-2021)</a></td></tr>
-  <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#sistemas-operativos">Sistemas Operativos</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#dise%C3%B1o-de-sistemas-operativos-2019-2020">Diseño de Sistemas Operativos</a></td></tr>
   <tr><td> :white_medium_square: <a href="https://github.com/acaldero/slides/#operating-system-design-2019-2020">Operating System Design</a></td></tr>
   <tr>
@@ -29,7 +28,10 @@
       <td> :white_medium_square: <a href="https://github.com/acaldero/slides/#fundamentals-of-big-data-software-and-hardware-technologies-madmbdmbda">Fundamentals of Big Data Software and Hardware Technologies</a></td>
   </tr>
   <tr>
-      <td> :white_circle: Ingeniería Informática</td>
+      <td rowspan="2"> :white_circle: Ingeniería Informática</td>
+      <td> :white_medium_square: <a href="https://github.com/acaldero/slides/#sistemas-operativos">Sistemas Operativos</a></td>
+  </tr>
+  <tr>
       <td> :white_medium_square: <a href="https://github.com/acaldero/slides/#desarrollo-de-aplicaciones-distribuidas-ii">Desarrollo de Aplicaciones Distribuidas</a></td>
   </tr>
  </table>
