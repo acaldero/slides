@@ -558,13 +558,13 @@
       <td><ul type="1">
         <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-v5d.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-v5d</a></li>
         <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-hadoop-v4b.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-hadoop-v4b</a></li>
-        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-spark-v3e.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-spark-v3e</a></li>
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-se-spark-v4a.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-spark-v4a</a></li>
       </ul></td>
   </tr>
   <tr><td>4</td><td>Tolerancia a fallos</td>
       <td><ul type="1">
         <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/
-mcti-dsd-tf-v3c.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-tolerancia-a-fallos-v3c</a></li>
+mcti-dsd-tf-v4a.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-tolerancia-a-fallos-v4a</a></li>
       </ul></td>
   </tr>
   </table>
