@@ -551,7 +551,7 @@
   <tr><th>Sesión</th><th>Tema</th><th>Transparencias</th></tr>
   <tr><td>2</td><td>Sistemas de altas prestaciones en entornos distribuidos</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v12a.pdf">sistemas-de-altas-prestaciones-en-entornos-distribuidos-v10a</a></li>
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-hpc-v12b.pdf">sistemas-de-altas-prestaciones-en-entornos-distribuidos-v12b</a></li>
        </ul></td>
   </tr>
   <tr><td>3</td><td>Sistemas de almacenamiento escalables</td>
