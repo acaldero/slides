@@ -563,7 +563,7 @@
   </tr>
   <tr><td>4</td><td>Tolerancia a fallos</td>
       <td><ul type="1">
-        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-tf-v5a.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-tolerancia-a-fallos-v4a</a></li>
+        <li> <a href="https://acaldero.github.io/slides/MCYTI_Disenyo_De_Sistemas_Distribuidos/mcti-dsd-tf-v5b.pdf">mctidsd-sistemas-escalables-en-entornos-distribuidos-tolerancia-a-fallos-v5b</a></li>
       </ul></td>
   </tr>
   </table>
